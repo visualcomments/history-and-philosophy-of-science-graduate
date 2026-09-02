@@ -27,9 +27,9 @@
 
 ## Источники и свидетельства
 > **Цитата:** «origin and purpose. Our real business is to analyse accu¬ rately the circumstances of phenomena, and to connect them by the natural relations of succession and resemblance. The best illustration of this is in the case of the doctrine of Gravitation. We say that the general phenomena of the universe are explained by it, because it connects under one head the whole immense variety of astronomical facts ; exhibiting the constant tendency of atoms towards each other in direct proportion to their masses, and in inverse proportion to the squares of their distances; whilst the general fact itself is a mere extension of one which is per¬ fectly famil»
-> **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5643
 > **Цитата:** «between it and Logic in the widest sense. Logic, as I conceive it, is the entire theory of the ascertainment of reasoned or inferred truth. Formal Logic, therefore, which Sir William Hamilton from his own point of view, and Archbishop Whately from his, have represented as the whole of Locric properly so called, is really a very subordinate part of it, not being direct- ly concerned with the process of Reasoning or Inference in the sense in which that process is a part of the Investigation of Truth. What, then, is Formal Logic ? The name seems to be properly applied to all that por- tion of doctrine which relates to the equivalence of differen»
-> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент #32212
 
 
 Конт, характеризуя положительное состояние знания, связывает его с

@@ -53,4 +53,4 @@
 ## Источники и свидетельства
 
 > **Цитата:** «{{Infobox philosopher |region = Western philosophy |era = 20th-century philosophy |image = Professor Imre Lakatos, c1960s.jpg |caption = Lakatos, c. 1960s |name = Imre Lakatos |birth_name = Imre Lipsitz |birth_date = |birth_place = Debrecen, Kingdom of Hungary |death_date = |death_place = London, England |political_party = MKP (1945–1948) MDP (1948–1950) |education = University of Budapest Eötvös József Collegium University of Debrecen (PhD, 1947) Moscow State University University of Cambridge (PhD, 1961) |institutions = London School of Economics |doctoral_advisor = R. B. Braithwaite |academic_advisors = Sofya Yanovskaya |doctoral_students »
-> **Источник:** `txt/wikipedia__Imre_Lakatos.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Imre_Lakatos.txt` · фрагмент #43142

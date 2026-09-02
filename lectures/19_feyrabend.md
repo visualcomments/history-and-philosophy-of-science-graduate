@@ -51,4 +51,4 @@
 ## Источники и свидетельства
 
 > **Цитата:** «====Anarchist phase==== In the 1970s, Feyerabend outlines an anarchistic theory of knowledge captured by the slogan 'anything goes'. The phrase 'anything goes' first appears in Feyerabend's paper "Experts in a Free Society" and is more famously proclaimed at the end of the first chapter of Against Method. Feyerabend's epistemological anarchism has been the source of contention amongst scholars. Some claim that epistemological anarchism is not a positive view of scientific method, but the conclusion of a reductio ad absurdum of 'rationalism' (the view that there are universal and unchanging rational rules for scientific reasoning). In Feyerabe»
-> **Источник:** `txt/wikipedia__Paul_Feyerabend.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Paul_Feyerabend.txt` · фрагмент #43655

@@ -55,4 +55,4 @@
 ## Источники и свидетельства
 
 > **Цитата:** «The logical positivist program established its theoretical foundations in the empiricism of David Hume, Auguste Comte and Ernst Mach, along with the positivism of Comte and Mach, defining its exemplar of science in Einstein's general theory of relativity. Further influence came from Percy Bridgman's operationalism—whereby a concept is not knowable unless it can be measured experimentally—as well as Immanuel Kant's perspectives on aprioricity. His work introduced the view of philosophy as "critique of language", discussing theoretical distinctions between intelligible and nonsensical discourse. Tractatus adhered to a correspondence theory of t»
-> **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент #43407

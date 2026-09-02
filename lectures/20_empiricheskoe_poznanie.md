@@ -29,9 +29,9 @@
 
 ## Источники и свидетельства
 > **Цитата:** «This knowledge we get, not by observation and experiment, as Bacon thought, “since experience concludeth nothing uni-»
-> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #95
 > **Цитата:** «Thus the Enquiry omits the distinction between simple and complex ideas ; between impressions of sensation and reflexion, which is of importance afterwards for the explanation of the idea of necessary connexion; betiveen ideas of memory and imagination : in the treatment of association little is said about causation as a principle of association, and the account of the products of association, the three classes of complex ideas, relations, modes and substances, and abstract ideas, disappears.»
-> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент #14400
 
 
 Бэкон — опыт и эксперимент как основание науки (опыт ставит вопросы

@@ -27,7 +27,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «If this Discourse appear too long to be read at once, it may be divided into six parts: and, in the first, will be found various considerations touching the Sciences ; in the second, the principal rules of the Method vi^hich the Author has discovered; in the third, certain of the rules of Morals which he has deduced from this Method; in the fourth, the reasonings by which he establishes the existence of God and of the Human Soul, which are the foundations of his Metaphysic; in the fifth, the order of the Physical questions which he has investigated, and, in particular, the explication of the motion of the heart and of some other difficulties »
-> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8215
 
 
 Декарт в «Рассуждении о методе» описывает новый универсальный метод,

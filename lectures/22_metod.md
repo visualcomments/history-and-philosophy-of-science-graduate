@@ -32,7 +32,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «of what we already know, or even as the Art of Lully, in speaking without judgment of things of which we are igno- rant, than in the investigation of the unknown ; and aUhough this Science contains indeed a number of correct and very excellent precepts, there are, nevertheless, so many others, and these either injvirious or superfluous, mingled with the former, that it is almost quite as difficult to effect a severance of the true from the false as it is to extract a Diana or a Minerva from a rough block of marble. Then as to the Analysis oi the ancients and the Algebra of the moderns, besides that they embrace only matters highly abstract, a»
-> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8298
 
 
 Бэкон — метод как «орудие» ума, позволяющее преодолеть слабость

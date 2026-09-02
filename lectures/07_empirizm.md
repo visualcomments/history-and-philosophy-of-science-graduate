@@ -27,7 +27,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find en¬ trance, but even after entrance obtained, they will again in the very instauration of the sciences meet and trouble us, unless men being forewarned of the danger fortify themselves as far as may be against their assaults.»
-> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
 
 
 Бэкон формулирует цель своего предприятия — власть человека над

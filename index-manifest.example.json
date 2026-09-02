@@ -1,33 +1,33 @@
 {
  "schema": 1,
- "note": "Манифест индекса корпуса курса «История и философия науки». Разместите архив на Google Диске («любой, у кого есть ссылка», читатель) и впишите share-ссылку в url (или FALT_INDEX_URL).",
+ "note": "Манифест индекса корпуса курса «История и философия науки» (PD + статьи CC BY-SA). Разместите архив на Google Диске (доступ по ссылке) и впишите URL в index-manifest.json или FALT_INDEX_URL.",
  "index_version": "2026-09-02",
  "archive": {
   "filename": "course-index-graduate-2026-09-02.zip",
-  "size_bytes": 141235492,
-  "sha256": "DFEBCD41ABB271A4910768F51CC536DA607E51416657A7C120C7D68C702E8311",
+  "size_bytes": 138969354,
+  "sha256": "F20C775A7F92FB1D2E2F6A79D9CF1CBD03698ADD301E7E9875FB4972447CD996",
   "url": ""
  },
  "files": [
   {
    "path": "annoy.index",
-   "size_bytes": 79316424,
-   "sha256": "BDEC110FA587664172E08C3CA6587E83418A7833DDDFDEC854A26D39E7A066FF"
+   "size_bytes": 77951088,
+   "sha256": "138AF4811F2C48DC55B426758E57CFCD61A9B22EAECB75D9010693FD1CEB6327"
   },
   {
    "path": "chunks.jsonl",
-   "size_bytes": 29169285,
-   "sha256": "E923FF26BBC87450B7C863938BCA7BCAD7647C095B6B0A706E29EE3F443DE9FE"
+   "size_bytes": 28708269,
+   "sha256": "E099E2A7FDD5A891CDF88A360E9003DD04B3610BAC342CB842474007F3157891"
   },
   {
    "path": "config.json",
-   "size_bytes": 1515,
-   "sha256": "6B556B9B198101E6E449D88764FCC08D22FD43EA6E1E7C13D04837898998EA2E"
+   "size_bytes": 1469,
+   "sha256": "AF4A83F1054031985937F735BADDCFD435918A1EAA244F8526072275031416D2"
   },
   {
    "path": "embeddings.npy",
-   "size_bytes": 69393536,
-   "sha256": "AFD9D87C69C0FD58719921B878B8F86AE3304D3BE545A65D441ACCF21D0BA67B"
+   "size_bytes": 68327552,
+   "sha256": "38AB5CFBD5673501376B021AC0378667CE15B3A2F002BCCC0242CA7D232BB805"
   }
  ]
 }

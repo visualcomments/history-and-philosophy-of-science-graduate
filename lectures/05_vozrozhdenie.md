@@ -51,4 +51,4 @@
 ## Источники и свидетельства
 
 > **Цитата:** «The scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of the observation. The scientific method has characterized science since at least the 17th century. Scientific inquiry includes creating a testable hypothesis through inductive reasoning, testing it through experiments and statistical analysis, and adjusting or discarding the hypothesis based on the results.»
-> **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент #43930

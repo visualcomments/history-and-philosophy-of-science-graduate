@@ -27,7 +27,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «and by the 6 categories of the understanding/ upon our doctrine of nature are rigidly predetermined by the unalterable ‘ form ’ of our intellectual powers. We c must ’ thus view facts, whatever the data of sense must be. This, of course, is not M. Poincare’s view. A similarly rigid predetermination also limits the Kantian c ideas of the reason ’ to a certain set of principles whose guidance of the course of our theoretical investigations is indeed only 6 regu- lative/ but is 6 a priori/ and so unchangeable. For M. Poincare, on the contrary, all this adjustment of our interpretations of ex- perience to the needs of our intellect is something f»
-> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #38050
 
 
 Пуанкаре — опыт как единственный источник истины и роль гипотезы:

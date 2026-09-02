@@ -31,7 +31,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «A central thesis endorsed by some logical positivists (e.g. Schlick) and rejected by others (e.g. Carnap and Neurath) was the verification principle, also known as the "verifiability criterion of meaning", according to which a statement is cognitively meaningful only if it can be verified through empirical observation or if it is a tautology (true by virtue of its own meaning or its own logical form). The verifiability criterion thus rejected statements of metaphysics, theology, ethics and aesthetics as cognitively meaningless in terms of truth value or factual content. Despite its ambition to overhaul philosophy by mimicking the structure an»
-> **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент #43403
 
 
 Эмпирическая установка и критика метафизики имеют давнюю предтечу —

@@ -55,4 +55,4 @@
 ## Источники и свидетельства
 
 > **Цитата:** «Different early expressions of empiricism and the scientific method can be found throughout history, for instance with the ancient Stoics, Aristotle, Epicurus, Alhazen, {{efn-ua|1=Alhazen argued the importance of forming questions and subsequently testing them: "How does light travel through transparent bodies? Light travels through transparent bodies in straight lines only... We have explained this exhaustively in our Book of Optics. But let us now mention something to prove this convincingly: the fact that light travels in straight lines is clearly observed in the lights which enter into dark rooms through holes.... [T]he entering light wil»
-> **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент #43936

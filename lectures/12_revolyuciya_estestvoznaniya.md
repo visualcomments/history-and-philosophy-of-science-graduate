@@ -24,9 +24,9 @@ XX в., теория дрейфа континентов). Революция м
 
 ## Источники и свидетельства
 > **Цитата:** «We ought then to regard the present state of the universe as the effect of its anterior state and as the cause of the one which is to follow. Given for one instant an intelligence which could comprehend all the forces by which nature is animated and the respective situation of the beings who compose it — an intelligence sufficiently vast to submit these data to analysis — it would embrace in the same formula the movements of the greatest bodies of the universe and those of the lightest atom ; for it, nothing would be uncertain and the future, as the past, would be present to its eyes. The human mind offers, in the perfection which it has been»
-> **Источник:** `txt/philosophy__Laplace_Philosophical_Essay_Probability.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Laplace_Philosophical_Essay_Probability.txt` · фрагмент #20285
 > **Цитата:** «merely a further lesson in pure positivism, another proof that man does best when he limits himself to thinking about what can be found in human experience, and in trying to plan what can be done to make human life more controllable and more reasonable. What we are free to do as we please — is it any longer a serious business ? What we are free to think as we please — is it of any further interest to one who is in search of truth? If certain general theories are mere conceptual constructions, which to-day are, and to-morrow are cast into the oven, why dignify them by the name of philosophy ? Has science any place for such theories ? Why be a »
-> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #38020
 
 
 Пуанкаре, осмысляя кризис оснований, говорит о роли гипотезы и

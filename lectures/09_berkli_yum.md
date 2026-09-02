@@ -28,9 +28,9 @@
 
 ## Источники и свидетельства
 > **Цитата:** «Locke says (iv. iv. 8), ' To make our knowledge real, it is requisite that our ideas answer their archetypes.' (iv. vi. 16), ' General certainty is never to be found but in our ideas ; it is the contemplation of our own abstract ideas that' alone is able to afford us general knowledge.' (iv. vi. 11), 'The knowledge we have of our own being we have by intuition, the existence of God reason clearly makes known to us ; the knowledge of the existence of any other thing we can have only by sensa- tion, for there being no necessary connection of real existence with any idea a man has in his memory, nor of any other existence but that of God, with t»
-> **Источник:** `txt/philosophy__Berkeley_Principles_of_Human_Knowledge.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Berkeley_Principles_of_Human_Knowledge.txt` · фрагмент #2490
 > **Цитата:** «Thus the Enquiry omits the distinction between simple and complex ideas ; between impressions of sensation and reflexion, which is of importance afterwards for the explanation of the idea of necessary connexion; betiveen ideas of memory and imagination : in the treatment of association little is said about causation as a principle of association, and the account of the products of association, the three classes of complex ideas, relations, modes and substances, and abstract ideas, disappears.»
-> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент #14400
 
 
 Беркли — формула имматериализма:

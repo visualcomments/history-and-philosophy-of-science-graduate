@@ -27,7 +27,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «{{Infobox philosopher | honorific_prefix = Sir | name = Karl Popper | honorific_suffix = | image = Karl Popper.jpg | caption = Popper in the 1980s | birth_name = Karl Raimund Popper | birth_date = | birth_place = Vienna, Austria-Hungary | death_date = {{nowrap| }} | death_place = London, England | resting_place = , Vienna, Austria | citizenship = |spouse = |Correspondence theory of truth philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification made possible »
-> **Источник:** `txt/wikipedia__Karl_Popper.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Karl_Popper.txt` · фрагмент #43215
 
 
 Поппер опирался на Юма в постановке проблемы индукции; Юм об индукции

@@ -24,7 +24,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «a favourable presumption with regard to other parts also, although these may be of a totally different nature. Besides, once beyond the precincts of ex- perience, and we are certain that experience can never contradict us, while the charm of enlarging our knowledge is so great that nothing will stop our progress until we encounter a clear contradiction. This can be avoided if only we are cautious in our ima^nations, which nevertheless remain what they are, imaginations only. How far we can advance independent of all experience in a priori knowledge is shown by the brilliant example of mathematics. It is true they deal with objects and knowled»
-> **Источник:** `txt/philosophy__Kant_Critique_of_Pure_Reason_Mueller.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Kant_Critique_of_Pure_Reason_Mueller.txt` · фрагмент #16726
 
 
 Кант: пространство и время — априорные формы чувственности:

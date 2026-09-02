@@ -32,7 +32,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «* Can a machine act intelligently? Can it solve any problem that a person would solve by thinking? * Are human intelligence and machine intelligence the same? Is the human brain essentially a computer? * Can a machine have a mind, mental states, and consciousness in the same sense that a human being can? Can it feel how things are? (i.e. does it have qualia?) Questions like these reflect the divergent interests of AI researchers, cognitive scientists and philosophers respectively. The scientific answers to these questions depend on the definition of "intelligence" and "consciousness" and exactly which "machines" are under discussion.»
-> **Источник:** `txt/wikipedia__Philosophy_of_artificial_intelligence.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Philosophy_of_artificial_intelligence.txt` · фрагмент #43721
 
 
 Декарт — мыслящая вещь и различие мышления от тела (исторический фон

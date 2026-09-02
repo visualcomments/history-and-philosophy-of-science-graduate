@@ -27,9 +27,9 @@
 
 ## Источники и свидетельства
 > **Цитата:** «origin and purpose. Our real business is to analyse accu¬ rately the circumstances of phenomena, and to connect them by the natural relations of succession and resemblance. The best illustration of this is in the case of the doctrine of Gravitation. We say that the general phenomena of the universe are explained by it, because it connects under one head the whole immense variety of astronomical facts ; exhibiting the constant tendency of atoms towards each other in direct proportion to their masses, and in inverse proportion to the squares of their distances; whilst the general fact itself is a mere extension of one which is per¬ fectly famil»
-> **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5643
 > **Цитата:** «•& ja what oasee such induction is allowable. 402 '•4$mNrivmd preralence of tbe law of cao« * A ••s405tfT-o^ what grounds adwisalble 408»
-> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент #30748
 
 
 Конт — позитивная стадия и закон трёх стадий:

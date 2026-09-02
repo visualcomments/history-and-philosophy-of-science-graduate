@@ -32,7 +32,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «The principle of relativity, according to which the laws of physical phenomena should be the same, whether for an observer fixed, or for an observer carried along in a uniform movement of translation; so that we have not and could not have any means of discerning whether or not we are carried along in such a motion.»
-> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #39238
 
 
 Пуанкаре — относительность движения и роль определения одновременности:

@@ -31,7 +31,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «Both therefore make hypotheses, and this indeed is necessary, since no scientist has ever been able to get on without them. The essential thing is never to make them unconsciously.»
-> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
+> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
 
 
 Пуанкаре — роль гипотезы в науке (гипотезы необходимы, но должны быть
