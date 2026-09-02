@@ -19,6 +19,7 @@
 | `syllabus.md`, `syllabus.json` | Программа: 26 занятий, осень/весна, связь с вопросами экзамена |
 | `lectures/` | 26 занятий `NN_*.md` — тезис, разбор вопроса, цитаты, «Вопросы для самопроверки», «Задания» |
 | `citations.md` | Правила цитирования и карта «вопрос → источники корпуса» |
+| `PROVENANCE.md` | Лицензии текстов корпуса: публичное достояние + статьи Wikipedia CC BY-SA 4.0 |
 | `verification/REPORT.md` | Автоматическая проверка каждой цитаты курса |
 | `agents/courses/science-philosophy-graduate/track.md` | Трек курса (botai) |
 | `agents/progress/progress-example.md` | Пример файла прогресса |

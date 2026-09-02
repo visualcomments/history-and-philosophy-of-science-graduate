@@ -1,33 +1,33 @@
 {
  "schema": 1,
- "note": "Манифест индекса корпуса на Google Диске. После размещения файлов на Диске заполните поле url (share-link или прямой download link, например https://drive.google.com/uc?export=download&id=FILE_ID) и сохраните как index-manifest.json в корне репозитория. Инструмент tools/index_fetch.py скачает архив, проверит SHA-256 и развернёт в FALT_CORPUS_ROOT/index/.",
+ "note": "Манифест индекса корпуса курса «История и философия науки». Разместите архив на Google Диске («любой, у кого есть ссылка», читатель) и впишите share-ссылку в url (или FALT_INDEX_URL).",
  "index_version": "2026-09-02",
  "archive": {
-  "filename": "course-index-2026-09-01.zip",
-  "size_bytes": 90506029,
-  "sha256": "AB070598F3774A625831E51DC6EBCB44538FE933D13A064CF46C58A1CD4E509C",
+  "filename": "course-index-graduate-2026-09-02.zip",
+  "size_bytes": 141235492,
+  "sha256": "DFEBCD41ABB271A4910768F51CC536DA607E51416657A7C120C7D68C702E8311",
   "url": ""
  },
  "files": [
   {
    "path": "annoy.index",
-   "size_bytes": 45299124,
-   "sha256": "4B2BFF628570F7293F81B8DCD92E0CEE7F4EA7A17F8D62BA357B4A53BDC26355"
+   "size_bytes": 79316424,
+   "sha256": "BDEC110FA587664172E08C3CA6587E83418A7833DDDFDEC854A26D39E7A066FF"
   },
   {
    "path": "chunks.jsonl",
-   "size_bytes": 47953304,
-   "sha256": "9090DB3D60DD1EF933B377DBF61A4B15E5AD3BD5367D3CBEC353B8DAA74B61CD"
+   "size_bytes": 29169285,
+   "sha256": "E923FF26BBC87450B7C863938BCA7BCAD7647C095B6B0A706E29EE3F443DE9FE"
   },
   {
    "path": "config.json",
-   "size_bytes": 3645,
-   "sha256": "60AECE04A99A016F24D26386FDF45228E3D3EBC53EACBB9434753FFDDBDA4B6C"
+   "size_bytes": 1515,
+   "sha256": "6B556B9B198101E6E449D88764FCC08D22FD43EA6E1E7C13D04837898998EA2E"
   },
   {
    "path": "embeddings.npy",
-   "size_bytes": 39559808,
-   "sha256": "839E34CF9721F9DFAE065EC4CD911A340E83E5DD3AC630669EB11AD3C92C6C3E"
+   "size_bytes": 69393536,
+   "sha256": "AFD9D87C69C0FD58719921B878B8F86AE3304D3BE545A65D441ACCF21D0BA67B"
   }
  ]
 }

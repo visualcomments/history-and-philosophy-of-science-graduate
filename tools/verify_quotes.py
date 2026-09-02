@@ -60,7 +60,7 @@ def load_chunks_by_file():
 def main():
     chunks = load_chunks_by_file()
     file_cache = {}
-    for p in glob.glob(os.path.join(TXT, "*.txt")):
+    for p in glob.glob(os.path.join(TXT, "*.txt").replace("\\", "/")):
         base = os.path.basename(p)
         try:
             with open(p, encoding="utf-8", errors="replace") as f:

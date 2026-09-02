@@ -24,7 +24,7 @@ def main():
         return 2
     rq = re.compile(re.escape(q), re.IGNORECASE)
     found = 0
-    for p in sorted(glob.glob(os.path.join(TXT, "*.txt"))):
+    for p in sorted(glob.glob(os.path.join(TXT, "*.txt").replace("\\", "/"))):
         try:
             t = open(p, encoding="utf-8", errors="replace").read()
         except OSError:
