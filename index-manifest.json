@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "note": "Манифест индекса корпуса курса «История и философия науки» (PD + статьи CC BY-SA). Разместите архив на Google Диске (доступ по ссылке) и впишите URL в index-manifest.json или FALT_INDEX_URL.",
+ "note": "Манифест индекса корпуса курса «История и философия науки» (PD + статьи CC BY-SA). Разместите архив на Google Диске (доступ по ссылке) и впишите URL в index-manifest.json или COURSE_INDEX_URL.",
  "index_version": "2026-09-02",
  "archive": {
   "filename": "course-index-graduate-2026-09-02.zip",

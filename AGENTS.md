@@ -41,7 +41,7 @@
    (после любых правок курса — 0 ошибок).
 6. **Установить индекс с Google Диска**: `make index-fetch URL="<ссылка>"`
    → `tools/index_fetch.py` (SHA-256 + атомарная установка в
-   `FALT_CORPUS_ROOT/index/`); после этого работают поиск и верификация.
+   `COURSE_CORPUS_ROOT/index/`); после этого работают поиск и верификация.
 7. **Поднять локальный RAG-API** (опционально): `make serve` →
    `tools/rag_api.py` (порт 8010; `GET /search?q=...`).
 

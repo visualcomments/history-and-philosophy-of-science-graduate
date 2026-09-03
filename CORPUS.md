@@ -13,7 +13,7 @@ XX в. (охраняемые авторским правом) в корпус **
 ## Раскладка (environments)
 
 ```
-<FALT_CORPUS_ROOT>/
+<COURSE_CORPUS_ROOT>/
 ├── txt/           ← тексты корпуса (UTF-8, *.txt)
 ├── index/         ← RAG-индекс: annoy.index, embeddings.npy, chunks.jsonl, config.json
 └── (scripts/, catalog/ — опционально, инструменты локали)
@@ -29,8 +29,8 @@ make search QUERY="Кант"
 make verify                              # проверка цитат
 ```
 
-Управляется переменными: `FALT_CORPUS_ROOT`, `FALT_TXT_DIR`,
-`FALT_INDEX_DIR`, `FALT_REPO_DIR`. Жёстких путей в репозитории нет.
+Управляется переменными: `COURSE_CORPUS_ROOT`, `COURSE_TXT_DIR`,
+`COURSE_INDEX_DIR`, `COURSE_REPO_DIR`. Жёстких путей в репозитории нет.
 
 ## Источники корпуса (целевой состав)
 
