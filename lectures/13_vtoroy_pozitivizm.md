@@ -25,15 +25,19 @@
 что в науке является фактом, гипотезой и соглашением. Это подготовка
 почвы для логического позитивизма (занятие 15).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Раскрывать «экономию мышления» Маха
+- Объяснять конвенционализм Пуанкаре в основаниях геометрии
+- Излагать тезис Дюгема о проверке теории
+
 ## Источники и свидетельства
 > **Цитата:** «and by the 6 categories of the understanding/ upon our doctrine of nature are rigidly predetermined by the unalterable ‘ form ’ of our intellectual powers. We c must ’ thus view facts, whatever the data of sense must be. This, of course, is not M. Poincare’s view. A similarly rigid predetermination also limits the Kantian c ideas of the reason ’ to a certain set of principles whose guidance of the course of our theoretical investigations is indeed only 6 regu- lative/ but is 6 a priori/ and so unchangeable. For M. Poincare, on the contrary, all this adjustment of our interpretations of ex- perience to the needs of our intellect is something f»
 > **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #38050
 
-
 Пуанкаре — опыт как единственный источник истины и роль гипотезы:
-
-
-> `verification/REPORT.md`)
 
 ## Авторский синтез: Мах и Дюгем
 
@@ -59,3 +63,7 @@
   координатами.
 - **Аналитическое:** сравните «второй» позитивизм с «первым»: что
   изменилось в статусе теории после кризиса оснований?
+
+---
+
+**Навигация:** [← Занятие 12](12_revolyuciya_estestvoznaniya.md) · [Программа курса](../syllabus.md) · [Занятие 14 →](14_logicheskiy_atomizm.md) · *Осенний семестр*

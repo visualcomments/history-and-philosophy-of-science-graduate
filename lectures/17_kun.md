@@ -22,6 +22,14 @@
 - **Научное сообщество** — носитель парадигмы; смена взглядов —
   социально-психологический процесс, а не чисто логическое сравнение.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Раскрывать понятия парадигмы и дисциплинарной матрицы
+- Объяснять, чем занимается нормальная наука
+- Раскрывать несоизмеримость парадигм и её следствия
+
 ## Авторский синтез (вне корпуса)
 
 (Раздел вне прямых цитат корпуса: Кун охраняется авторским правом.)
@@ -48,4 +56,8 @@
 ## Источники и свидетельства
 
 > **Цитата:** «Thomas Samuel Kuhn ( ; July 18, 1922&nbsp;– June 17, 1996) was an American historian and philosopher of science whose 1962 book The Structure of Scientific Revolutions was influential in both academic and popular circles. The book popularized the term paradigm shift, which has since become an English-language idiom.»
-> **Источник:** `txt/wikipedia__Thomas_Kuhn.txt` · фрагмент —
+> **Источник:** `txt/wikipedia__Thomas_Kuhn.txt` · фрагмент (номер требует сверки)
+
+---
+
+**Навигация:** [← Занятие 16](16_popper.md) · [Программа курса](../syllabus.md) · [Занятие 18 →](18_lakatos.md) · *Весенний семестр*

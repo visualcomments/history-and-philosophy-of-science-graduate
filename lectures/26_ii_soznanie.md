@@ -30,16 +30,20 @@
 «сильный» vs «слабый» ИИ; проблема qualia («что значит быть летучей
 мышью»); границы вычислимости (теорема останова); этика ИИ.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять тест Тьюринга и его границы
+- Излагать аргумент «китайской комнаты»
+- Различать физикализм и антифизикализм в вопросе о сознании
+
 ## Источники и свидетельства
 > **Цитата:** «* Can a machine act intelligently? Can it solve any problem that a person would solve by thinking? * Are human intelligence and machine intelligence the same? Is the human brain essentially a computer? * Can a machine have a mind, mental states, and consciousness in the same sense that a human being can? Can it feel how things are? (i.e. does it have qualia?) Questions like these reflect the divergent interests of AI researchers, cognitive scientists and philosophers respectively. The scientific answers to these questions depend on the definition of "intelligence" and "consciousness" and exactly which "machines" are under discussion.»
 > **Источник:** `txt/wikipedia__Philosophy_of_artificial_intelligence.txt` · фрагмент #43721
 
-
 Декарт — мыслящая вещь и различие мышления от тела (исторический фон
 дуализма):
-
-
-> `verification/REPORT.md`)
 
 ## Авторский синтез (вне корпуса)
 
@@ -64,3 +68,7 @@
   фрагмент «cogito / мыслящая вещь» и выпишите его с координатами.
 - **Эссе (700 слов):** «Можно ли “объяснить” сознание через вычисление?»
   — аргументы за и против (Тьюринг, Сёрл, физикализм), ваш вывод.
+
+---
+
+**Навигация:** [← Занятие 25](25_prostranstvo_vremya.md) · [Программа курса](../syllabus.md) · *Весенний семестр*

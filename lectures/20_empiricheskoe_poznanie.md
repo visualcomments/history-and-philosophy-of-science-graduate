@@ -27,18 +27,22 @@
 - **Индукция и классификация**: систематизация фактов в таблицы,
   зависимости, эмпирические законы (ср. Милль — занятие 11).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять, почему факт не является «чистой данностью»
+- Различать наблюдение и эксперимент
+- Раскрывать роль измерения в становлении научного факта
+
 ## Источники и свидетельства
 > **Цитата:** «This knowledge we get, not by observation and experiment, as Bacon thought, “since experience concludeth nothing uni-»
 > **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #95
 > **Цитата:** «Thus the Enquiry omits the distinction between simple and complex ideas ; between impressions of sensation and reflexion, which is of importance afterwards for the explanation of the idea of necessary connexion; betiveen ideas of memory and imagination : in the treatment of association little is said about causation as a principle of association, and the account of the products of association, the three classes of complex ideas, relations, modes and substances, and abstract ideas, disappears.»
-> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент #14400
-
+> **Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент (номер требует сверки)
 
 Бэкон — опыт и эксперимент как основание науки (опыт ставит вопросы
 природе):
-
-
-> `verification/REPORT.md`)
 
 ## Вопросы для самопроверки
 
@@ -54,3 +58,7 @@
 - **Аналитическое:** разберите один известный эксперимент (опыт Галилея с
   наклонной плоскостью, опыты Пастера) на элементы: наблюдение —
   вмешательство — измерение — факт.
+
+---
+
+**Навигация:** [← Занятие 19](19_feyrabend.md) · [Программа курса](../syllabus.md) · [Занятие 21 →](21_teoreticheskoe_poznanie.md) · *Весенний семестр*

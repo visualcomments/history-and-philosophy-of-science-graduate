@@ -25,55 +25,27 @@
 процедура «идти от опыта к началам» оформляется как метод (Бэкон) или
 как учение об идеях (Локк).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Называть общее в эмпиризме Бэкона, Гоббса и Локка
+- Излагать учение об «идолах» Бэкона и метод их преодоления
+- Различать первичные и вторичные качества у Локка
+
 ## Источники и свидетельства
 > **Цитата:** «The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find en¬ trance, but even after entrance obtained, they will again in the very instauration of the sciences meet and trouble us, unless men being forewarned of the danger fortify themselves as far as may be against their assaults.»
 > **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
-
 
 Бэкон формулирует цель своего предприятия — власть человека над
 природой через знание причин:
 
 > **Цитата:** «...human knowledge and human power meet in one; for where the cause is not known the effect cannot be produced...»
-**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент —
-
+**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
 Бэкон о «идолах» как препятствиях познания:
 
 > **Цитата:** «The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find en¬ trance, but even after entrance obtained, they will again in the very instauration of the sciences meet and trouble us, unless men being forewarned of the danger fortify themselves as far as may be against their assaults.»
-**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
-## Авторский синтез: Локк и «чистая доска»
-
-(Раздел вне прямых цитат корпуса.) Локк переносит эмпиризм в теорию
-познания систематически: отрицаются врождённые принципы; уму приписываются
-только «материалы опыта» (ощущения — внешний опыт, рефлексия — внутренний
-опыт) и способности (сравнение, сочетание, абстрагирование). Из этого
-вырастет: ограничение знания (мы знаем свои идеи, а не «сами вещи»),
-различие первичных и вторичных качеств (механика: число, фигура,
-движение — объективны; цвет, вкус, звук — «в нас»), и, далее,
-феноменализм Юма (занятие 09) и критическая философия Канта (занятие 10).
-
-## Вопросы для самопроверки
-
-1. Что общего у Бэкона, Гоббса и Локка как эмпириков?
-2. Каковы «идолы» Бэкона и как их преодолевает метод?
-3. В чём состоит различие первичных и вторичных качеств у Локка?
-
-## Задания
-
-- **С источником:** найдите в `philosophy__Bacon_Novum_Organum.txt`
-  фрагмент об «идолах» и выпишите его с координатами.
-- **Аналитическое:** постройте схему «источники идей у Локка» и
-  объясните, почему из неё следует строгая эмпирическая программа науки
-
-Бэкон о «идолах» как препятствиях познания:
-
-> **Цитата:** «xxxviii The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s»
-**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
+**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
 ## Авторский синтез: Локк и «чистая доска»
 
 (Раздел вне прямых цитат корпуса.) Локк переносит эмпиризм в теорию
@@ -97,3 +69,7 @@
   фрагмент об «идолах» и выпишите его с координатами.
 - **Аналитическое:** постройте схему «источники идей у Локка» и
   объясните, почему из неё следует строгая эмпирическая программа науки.
+
+---
+
+**Навигация:** [← Занятие 06](06_nauchnaya_revolyuciya.md) · [Программа курса](../syllabus.md) · [Занятие 08 →](08_racionalizm.md) · *Осенний семестр*

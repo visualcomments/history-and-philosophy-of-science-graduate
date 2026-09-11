@@ -3,7 +3,7 @@
 PY ?= python3
 VENV_PY ?= $(PY)
 
-.PHONY: help search index-fetch session assignment verify serve status quotes
+.PHONY: help search index-fetch session assignment verify serve status quotes validate test
 
 help:
 	@echo "Цели:"
@@ -14,6 +14,8 @@ help:
 	@echo "  make verify                  проверка всех цитат курса по корпусу"
 	@echo "  make serve port=8765         запуск RAG-API (Ctrl+C — стоп)"
 	@echo "  make status                  состояние курса и корпуса"
+	@echo "  make validate                проверка целостности курса"
+	@echo "  make test                    тесты инструментов и самопроверка"
 
 search:
 	test -n "$(QUERY)" || (echo "Укажите QUERY=..."; exit 1)
@@ -42,3 +44,10 @@ status:
 
 quotes:
 	$(VENV_PY) tools/quote_finder.py "$(QUERY)"
+
+validate:
+	$(PY) tools/validate_course.py
+
+test:
+	$(PY) tests/test_tools.py
+	bash .github/scripts/selftest.sh

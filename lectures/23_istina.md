@@ -31,18 +31,22 @@
 «эта модель полезна для прогноза» — прагматически), и назвать главные
 критические аргументы.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Формулировать корреспондентную и когерентную концепции истины
+- Раскрывать прагматическую концепцию и её главную трудность
+- Объяснять конвенциональную концепцию на примере Пуанкаре
+
 ## Источники и свидетельства
 > **Цитата:** «and by the 6 categories of the understanding/ upon our doctrine of nature are rigidly predetermined by the unalterable ‘ form ’ of our intellectual powers. We c must ’ thus view facts, whatever the data of sense must be. This, of course, is not M. Poincare’s view. A similarly rigid predetermination also limits the Kantian c ideas of the reason ’ to a certain set of principles whose guidance of the course of our theoretical investigations is indeed only 6 regu- lative/ but is 6 a priori/ and so unchangeable. For M. Poincare, on the contrary, all this adjustment of our interpretations of ex- perience to the needs of our intellect is something f»
 > **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #38050
 > **Цитата:** «ideas which are characteristic of a.rational being must be analyzed, so that their grounds or premises may be as fully exhibited as possible. And thus the specific quality of a rational soul or self-conscious Monad is ‘the knowledge of necessary and eternal truths,’ that is to say, of the ultimate grounds or premises of all knowledge. The self-conscious Monad represents or perceives the universe in an articulate way. It has carried the internal evolution or realization of the universe so far that its underlying principles have clearly revealed themselves. ‘It is by the knowledge of necessary truths and by their abstract expression | leurs abs»
-> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент #21674
-
+> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент (номер требует сверки)
 
 Пуанкаре — геометрические аксиомы как конвенции (основа
 конвенционализма в науке):
-
-
-> `verification/REPORT.md`)
 
 ## Авторский синтез: прагматическая концепция
 
@@ -71,3 +75,7 @@ ultimately agreed to by all who investigate»). У. Джеймс (1842–1910):
   треугольника Эвклида равна 180°»; (б) «вода кипит при 100 °C»;
   (в) «эта модель прогноза оказалась успешной»; (г) «бытие и мышление
   совпадают».
+
+---
+
+**Навигация:** [← Занятие 22](22_metod.md) · [Программа курса](../syllabus.md) · [Занятие 24 →](24_determinizm.md) · *Весенний семестр*

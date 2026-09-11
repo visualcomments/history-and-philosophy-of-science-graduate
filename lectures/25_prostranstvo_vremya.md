@@ -30,15 +30,19 @@
   проблема «истинного» времени и длительности; связь с вопросом о
   детерминизме (занятие 24).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Различать субстанциальную и реляционную концепции пространства и времени
+- Объяснять, что меняет специальная теория относительности в понятии времени
+- Излагать описание гравитации в общей теории относительности
+
 ## Источники и свидетельства
 > **Цитата:** «The principle of relativity, according to which the laws of physical phenomena should be the same, whether for an observer fixed, or for an observer carried along in a uniform movement of translation; so that we have not and could not have any means of discerning whether or not we are carried along in such a motion.»
 > **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #39238
 
-
 Пуанкаре — относительность движения и роль определения одновременности:
-
-
-> `verification/REPORT.md`)
 
 ## Авторский синтез: от Ньютона к Эйнштейну
 
@@ -67,3 +71,7 @@
 - **Аналитическое:** «определите» одновременность операционально (по
   Эйнштейну) и объясните, почему это снимает субстанциальное трактование
   времени.
+
+---
+
+**Навигация:** [← Занятие 24](24_determinizm.md) · [Программа курса](../syllabus.md) · [Занятие 26 →](26_ii_soznanie.md) · *Весенний семестр*

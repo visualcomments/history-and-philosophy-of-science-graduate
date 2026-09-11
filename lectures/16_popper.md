@@ -25,45 +25,23 @@
    «выживают» в ходе критики как организмы в отборе; «приближение к
    истине» (верисимилитуда) как цель.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Различать фальсифицируемость и верифицируемость как критерии
+- Излагать концепцию «трёх миров» и определять, где обитает наука
+- Объяснять ответ Поппера на проблему индукции Юма
+
 ## Источники и свидетельства
 > **Цитата:** «{{Infobox philosopher | honorific_prefix = Sir | name = Karl Popper | honorific_suffix = | image = Karl Popper.jpg | caption = Popper in the 1980s | birth_name = Karl Raimund Popper | birth_date = | birth_place = Vienna, Austria-Hungary | death_date = {{nowrap| }} | death_place = London, England | resting_place = , Vienna, Austria | citizenship = |spouse = |Correspondence theory of truth philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification made possible »
 > **Источник:** `txt/wikipedia__Karl_Popper.txt` · фрагмент #43215
-
 
 Поппер опирался на Юма в постановке проблемы индукции; Юм об индукции
 и привычке (опора для раздела 1):
 
 > **Цитата:** «affections, our thought is a faithful mirror, and copies its objects truly ; but the colours which it employs are famt and dull, in comparison of those in which our origmal per- ceptions were clothed. It requires no nice discernment or metaphysical head to mark the distinction between them. 12 Here therefore we may divide all the perceptions of the mind into two classes or species, which are distinguished by their different degrees of force and vivacity. The less forcible and lively are commonly denominated Thoughts or Ideas The other species want a name in our language, and in most others ; I suppose, because it was not requisite for any, bu»
-**Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
-## Авторский синтез (вне корпуса)
-
-(Раздел вне прямых цитат корпуса: Поппер охраняется авторским правом.)
-Изложить: (1) против верифицируемости как критерия (универсальные
-законы неверифицируемы, но фальсифицируемы); (2) фальсифицируемость
-как логическое отношение («всегда найдётся наблюдатель...»), а не
-наивный «опровергающий эксперимент»; (3) «догматизм» учёных и роль
-смелых гипотез; (4) мир 3 и его объективность; (5) критика: проблема
-отсроченного опровержения (теории Джюка-Куайна), роль истории науки
-(Кун), hole-фальсификационизм.
-
-## Вопросы для самопроверки
-
-1. Чем фальсифицируемость отличается от верифицируемости как критерия?
-2. Что такое «три мира» Поппера и в каком мире обитает наука?
-3. Как Поппер отвечает на проблему индукции Юма?
-
-## Задания
-
-- **С источником:** найдите в `philosophy__Hume_Enquiry_...txt` фрагмент
-  об индукции/привычке и выпишите его с координатами.
-- **Эссе (600 слов):** «Поппер против индукции: как возможен рост знания,
-  если наука не обобщает факты?
-
-> `verification/REPORT.md`)
-
+**Источник:** `txt/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt` · фрагмент (номер требует сверки)
 ## Авторский синтез (вне корпуса)
 
 (Раздел вне прямых цитат корпуса: Поппер охраняется авторским правом.)
@@ -87,3 +65,7 @@
   об индукции/привычке и выпишите его с координатами.
 - **Эссе (600 слов):** «Поппер против индукции: как возможен рост знания,
   если наука не обобщает факты?»
+
+---
+
+**Навигация:** [← Занятие 15](15_logicheskiy_pozitivizm.md) · [Программа курса](../syllabus.md) · [Занятие 17 →](17_kun.md) · *Весенний семестр*

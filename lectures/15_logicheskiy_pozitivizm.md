@@ -29,49 +29,24 @@
 а также критические аргументы (проблема верификации универсальных
 законов; ср. Юм и Поппер — занятие 16).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять роль протокольных предложений
+- Формулировать принцип верификации и его функцию демаркации
+- Показывать, с какими трудностями столкнулся строгий верификационизм
+
 ## Источники и свидетельства
 > **Цитата:** «A central thesis endorsed by some logical positivists (e.g. Schlick) and rejected by others (e.g. Carnap and Neurath) was the verification principle, also known as the "verifiability criterion of meaning", according to which a statement is cognitively meaningful only if it can be verified through empirical observation or if it is a tautology (true by virtue of its own meaning or its own logical form). The verifiability criterion thus rejected statements of metaphysics, theology, ethics and aesthetics as cognitively meaningless in terms of truth value or factual content. Despite its ambition to overhaul philosophy by mimicking the structure an»
 > **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент #43403
-
 
 Эмпирическая установка и критика метафизики имеют давнюю предтечу —
 эмпиризм Юма и позитивизм Конта; Юм о происхождении всех идей из
 впечатлений (эмпирический базис):
 
 > **Цитата:** «David Hume proposed an unambiguous distinction between analytic and synthetic, categorising knowledge exclusively as either "relations of ideas" (which are a priori, analytic and abstract) or "matters of fact and real existence" (a posteriori, synthetic and concrete), a classification referred to as Hume's fork. Immanuel Kant identified a further category of knowledge: Synthetic a priori statements, which are informative about the world, but known without observation. This principle is encapsulated in Kant's transcendental idealism, which attributes the mind a constructive role in phenomena whereby intuitive truths—including synthetic a prior»
-**Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
-## Авторский синтез (вне корпуса)
-
-(Раздел вне прямых цитат корпуса: авторы Венского кружка охраняются
-авторским правом.) Содержательно раскрыть: (1) протокольные предложения
-и их дискуссию (Шлик — базис в «данном», Нейрат — в физикалистском языке);
-(2) критерий значения и верификации (Карнап, «Преодоление метафизики
-логическим анализом языка»); (3) аналитическое/синтетическое;
-(4) физикализм и редукцию; (5) судьбу программы: смягчение (Карнап —
-подтверждаемость), критика параллелизма (парадоксы верификации
-универсальных законов), окончательное вытеснение постпозитивизмом
-(Поппер, Кун — занятия 16–17).
-
-## Вопросы для самопроверки
-
-1. Что такое протокольные предложения и зачем они нужны?
-2. Сформулируйте принцип верификации и его роль в демаркации.
-3. Почему строгий верификационизм столкнулся с проблемой универсальных
-   законов?
-
-## Задания
-
-- **Аналитическое:** к каждому из трёх утверждений («сейчас здесь
-  стул», «всякое изменение имеет причину», «идеи правят миром»)
-  примените критерий верификации — к чему он приводит?
-- **Эссе (600 слов):** «Верификационизм и проблема демаркации: от Культа
-  строгого критерия к смягчению»
-
-> `verification/REPORT.md`)
-
+**Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент #43403
 ## Авторский синтез (вне корпуса)
 
 (Раздел вне прямых цитат корпуса: авторы Венского кружка охраняются
@@ -98,3 +73,7 @@
   примените критерий верификации — к чему он приводит?
 - **Эссе (600 слов):** «Верификационизм и проблема демаркации: от Культа
   строгого критерия к смягчению».
+
+---
+
+**Навигация:** [← Занятие 14](14_logicheskiy_atomizm.md) · [Программа курса](../syllabus.md) · [Занятие 16 →](16_popper.md) · *Весенний семестр*

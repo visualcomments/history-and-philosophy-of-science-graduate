@@ -25,6 +25,14 @@
 попперовским рационализмом: «история науки без истории науки слепа;
 история науки без философии науки слепа».
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять устройство научно-исследовательской программы: ядро и защитный пояс
+- Различать прогрессивную и вырождающуюся программу
+- Сопоставлять Лакатоса с Поппером и Куном
+
 ## Авторский синтез (вне корпуса)
 
 (Раздел вне прямых цитат корпуса: Лакатос охраняется авторским правом.)
@@ -54,3 +62,7 @@
 
 > **Цитата:** «{{Infobox philosopher |region = Western philosophy |era = 20th-century philosophy |image = Professor Imre Lakatos, c1960s.jpg |caption = Lakatos, c. 1960s |name = Imre Lakatos |birth_name = Imre Lipsitz |birth_date = |birth_place = Debrecen, Kingdom of Hungary |death_date = |death_place = London, England |political_party = MKP (1945–1948) MDP (1948–1950) |education = University of Budapest Eötvös József Collegium University of Debrecen (PhD, 1947) Moscow State University University of Cambridge (PhD, 1961) |institutions = London School of Economics |doctoral_advisor = R. B. Braithwaite |academic_advisors = Sofya Yanovskaya |doctoral_students »
 > **Источник:** `txt/wikipedia__Imre_Lakatos.txt` · фрагмент #43142
+
+---
+
+**Навигация:** [← Занятие 17](17_kun.md) · [Программа курса](../syllabus.md) · [Занятие 19 →](19_feyrabend.md) · *Весенний семестр*

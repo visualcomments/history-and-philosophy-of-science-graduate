@@ -25,30 +25,32 @@
 идея единства науки_. Наука — образец знания; философия науки —
 «общая наука о науках», описывающая взаимосвязи и метод.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Формулировать закон трёх стадий Конта
+- Излагать учение Милля о методах науки
+- Раскрывать критику метафизики «первым» позитивизмом
+
 ## Источники и свидетельства
 > **Цитата:** «origin and purpose. Our real business is to analyse accu¬ rately the circumstances of phenomena, and to connect them by the natural relations of succession and resemblance. The best illustration of this is in the case of the doctrine of Gravitation. We say that the general phenomena of the universe are explained by it, because it connects under one head the whole immense variety of astronomical facts ; exhibiting the constant tendency of atoms towards each other in direct proportion to their masses, and in inverse proportion to the squares of their distances; whilst the general fact itself is a mere extension of one which is per¬ fectly famil»
 > **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5643
 > **Цитата:** «•& ja what oasee such induction is allowable. 402 '•4$mNrivmd preralence of tbe law of cao« * A ••s405tfT-o^ what grounds adwisalble 408»
-> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент #30748
-
+> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент (номер требует сверки)
 
 Конт — позитивная стадия и закон трёх стадий:
 
 > **Цитата:** «eneral, simple, and abstract of all ; and therefore the study of natural philosophy must clearly begin with them.»
-**Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент —
-
+**Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5643
 Конт — объяснение через законы, а не причины:
 
 > **Цитата:** «theological, political, or academic. In 1816, one of the tutors having given offence to the younger pupilB, Comte took the lead in demanding his resignation, and drew up a curt memorial to this effect. The college was sent down, and Comte, who was only in his second year of residence, as the author of the insurrection, was stmt home to his despairing parents and placed under the surveillance of the police, with his hopes of a future career entirely destroyed.»
-**Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент —
-
+**Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5643
 Милль — индукция как расширение знания от частного к общему:
 
 > **Цитата:** «Third Hta>re In the filial, the positive stale, the mind " ' has given over the lain search after Absolute notions, the origin and destination of the universe, and the causes of phenomena, and applies itself to the study of their laws, — that is, their invariable relations of succession§ T. The fifth leading division of names is into relative, and «!u*olitt69QT let us rather say, relative and non-relative; for tho word absolute is put upon much too hard duty in metaphysics, not to bo willingly spared wnou its services can bo dispense! with. It resembles the word civil in the lan- guage of jurisprudence, which stands for the opposite of criminal, tho op- posite of ecclesiastical, the opposite»
-**Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
+**Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент (номер требует сверки)
 ## Вопросы для самопроверки
 
 1. Сформулируйте закон трёх стадий Конта.
@@ -61,3 +63,7 @@
   фрагмент о «позитивном состоянии» и выпишите его с координатами.
 - **Аналитическое:** сравните позитивизм Конта с эмпиризмом Локка —
   что добавил XIX век к программе XVII века?
+
+---
+
+**Навигация:** [← Занятие 10](10_kant.md) · [Программа курса](../syllabus.md) · [Занятие 12 →](12_revolyuciya_estestvoznaniya.md) · *Осенний семестр*

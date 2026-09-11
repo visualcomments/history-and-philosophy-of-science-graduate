@@ -25,22 +25,25 @@
 (занятие 07): Лейбниц («нет ничего в интеллекте, чего не было бы в
 чувствах, кроме самого интеллекта») закладывает компромиссную позицию.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Излагать метод Декарта и его критерий истины
+- Сравнивать учения о субстанции: дуализм Декарта, монизм Спинозы, плюрализм Лейбница
+- Различать истины разума и истины факта у Лейбница
+
 ## Источники и свидетельства
 > **Цитата:** «While still young, Descartes had become profoundly dissatis- fied with the scholastic philosophy, which still survived in the teaching of the Jesuits from whom he received his early train- ing; and adopting a skeptical attitude he set out on his travels determined "to gain knowledge only from himself and the great book of the world, from nature and the observation of man." It was in Germany, as he tells us, that there came to him the idea which proved the starting point of his whole system of thought, the idea, "I think, therefore I exist," which called a halt to the philosophical doubt with which he had resolved to regard everything that cou»
 > **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8211
 > **Цитата:** «ideas which are characteristic of a.rational being must be analyzed, so that their grounds or premises may be as fully exhibited as possible. And thus the specific quality of a rational soul or self-conscious Monad is ‘the knowledge of necessary and eternal truths,’ that is to say, of the ultimate grounds or premises of all knowledge. The self-conscious Monad represents or perceives the universe in an articulate way. It has carried the internal evolution or realization of the universe so far that its underlying principles have clearly revealed themselves. ‘It is by the knowledge of necessary truths and by their abstract expression | leurs abs»
-> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент #21674
-
+> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент (номер требует сверки)
 
 Декарт — методическое сомнение и первая достоверность:
 
-
 Лейбниц — истины разума и истиныwith other 236 THE MONADOLOGY img and those of fact. Truths of reasoning are necessary and their opposite is impossible: truths of fact are con- tingent and their opposite is possibfact are contingent and their opposite is
 > possible...»
-> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
+> **Источник:** `txt/philosophy__Leibniz_Monadology.txt` · фрагмент (номер требует сверки)
 ## Вопросы для самопроверки
 
 1. В чём состоит метод Декарта и каков его критерий истины?
@@ -54,3 +57,7 @@
   и выпишите его с координатами.
 - **Аналитическое:** постройте схему «врождённые идеи: Декарт → Спиноза →
   Лейбниц» и покажите, где рационализм смыкается с эмпиризмом.
+
+---
+
+**Навигация:** [← Занятие 07](07_empirizm.md) · [Программа курса](../syllabus.md) · [Занятие 09 →](09_berkli_yum.md) · *Осенний семестр*

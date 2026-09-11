@@ -19,6 +19,14 @@
 конструкторской практикой. Этот образ — предтеча фигуры Галилея и
 нововременного естествоиспытателя (занятие 06).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять отличие Возрождения от Средневековья в работе с текстами и природой
+- Раскрывать фигуру «учёного-инженера» и её историческую роль
+- Показывать связь линейной перспективы с математизацией знания
+
 ## Авторский синтез: перспектива и машина как «наука» Возрождения
 
 (Раздел вне прямых цитат корпуса.) Линейная перспектива (Брунеллески,
@@ -52,3 +60,7 @@
 
 > **Цитата:** «The scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of the observation. The scientific method has characterized science since at least the 17th century. Scientific inquiry includes creating a testable hypothesis through inductive reasoning, testing it through experiments and statistical analysis, and adjusting or discarding the hypothesis based on the results.»
 > **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент #43930
+
+---
+
+**Навигация:** [← Занятие 04](04_aristotel.md) · [Программа курса](../syllabus.md) · [Занятие 06 →](06_nauchnaya_revolyuciya.md) · *Осенний семестр*

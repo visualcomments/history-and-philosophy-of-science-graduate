@@ -30,19 +30,23 @@
 методики (частной процедуры) и методологии (учения о методе);
 (2) классификацию; (3) примеры работы каждого метода.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Разграничивать метод, методику и методологию
+- Называть общенаучные эмпирические и логические методы
+- Излагать структуру гипотетико-дедуктивного метода
+
 ## Источники и свидетельства
 > **Цитата:** «of what we already know, or even as the Art of Lully, in speaking without judgment of things of which we are igno- rant, than in the investigation of the unknown ; and aUhough this Science contains indeed a number of correct and very excellent precepts, there are, nevertheless, so many others, and these either injvirious or superfluous, mingled with the former, that it is almost quite as difficult to effect a severance of the true from the false as it is to extract a Diana or a Minerva from a rough block of marble. Then as to the Analysis oi the ancients and the Algebra of the moderns, besides that they embrace only matters highly abstract, a»
 > **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8298
-
 
 Бэкон — метод как «орудие» ума, позволяющее преодолеть слабость
 естественного разума:
 
 > general propositions...»
-> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
+> **Источник:** `txt/philosophy__Mill_System_of_Logic.txt` · фрагмент (номер требует сверки)
 ## Вопросы для самопроверки
 
 1. Что такое метод, методика, методология?
@@ -55,3 +59,7 @@
   фрагмент о четырёх правилах и выпишите его с координатами.
 - **Таблица:** составьте таблицу «метод → определение → пример (ваша
   область исследований)» для 5 общенаучных и 2 частных методов.
+
+---
+
+**Навигация:** [← Занятие 21](21_teoreticheskoe_poznanie.md) · [Программа курса](../syllabus.md) · [Занятие 23 →](23_istina.md) · *Весенний семестр*

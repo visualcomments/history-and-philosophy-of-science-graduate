@@ -27,6 +27,14 @@
 утверждения — как фактические комбинации. Логический атомизм —
 непосредственная предпосылка логического позитивизма (занятие 15).
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Объяснять понятие атомарных фактов в логическом атомизме
+- Раскрывать тезис «предложение есть образ факта»
+- Интерпретировать принцип «о чём нельзя говорить, о том следует молчать»
+
 ## Авторский синтез (вне корпуса)
 
 (Раздел вне прямых цитат корпуса: Рассел и Витгенштейн — авторы XX в.
@@ -56,3 +64,7 @@
 
 > **Цитата:** «The logical positivist program established its theoretical foundations in the empiricism of David Hume, Auguste Comte and Ernst Mach, along with the positivism of Comte and Mach, defining its exemplar of science in Einstein's general theory of relativity. Further influence came from Percy Bridgman's operationalism—whereby a concept is not knowable unless it can be measured experimentally—as well as Immanuel Kant's perspectives on aprioricity. His work introduced the view of philosophy as "critique of language", discussing theoretical distinctions between intelligible and nonsensical discourse. Tractatus adhered to a correspondence theory of t»
 > **Источник:** `txt/wikipedia__Logical_positivism.txt` · фрагмент #43407
+
+---
+
+**Навигация:** [← Занятие 13](13_vtoroy_pozitivizm.md) · [Программа курса](../syllabus.md) · [Занятие 15 →](15_logicheskiy_pozitivizm.md) · *Весенний семестр*

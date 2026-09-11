@@ -23,6 +23,14 @@
 индукцию. Именно эта связка «опыт → индукция → начала → дедукция»
 станет прообразом и объектом критики всех последующих методологий.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Перечислять четыре причины Аристотеля с примерами
+- Излагать классификацию наук у Аристотеля
+- Объяснять роль телеологического объяснения и причины его отвержения в Новое время
+
 ## Авторский синтез: Аристотель и само понятие «научной программы»
 
 (Раздел вне прямых цитат корпуса.) Термин «научная программа» — не
@@ -56,3 +64,7 @@
 
 > **Цитата:** «Different early expressions of empiricism and the scientific method can be found throughout history, for instance with the ancient Stoics, Aristotle, Epicurus, Alhazen, {{efn-ua|1=Alhazen argued the importance of forming questions and subsequently testing them: "How does light travel through transparent bodies? Light travels through transparent bodies in straight lines only... We have explained this exhaustively in our Book of Optics. But let us now mention something to prove this convincingly: the fact that light travels in straight lines is clearly observed in the lights which enter into dark rooms through holes.... [T]he entering light wil»
 > **Источник:** `txt/wikipedia__Scientific_method.txt` · фрагмент #43936
+
+---
+
+**Навигация:** [← Занятие 03](03_antichnye_programmy.md) · [Программа курса](../syllabus.md) · [Занятие 05 →](05_vozrozhdenie.md) · *Осенний семестр*

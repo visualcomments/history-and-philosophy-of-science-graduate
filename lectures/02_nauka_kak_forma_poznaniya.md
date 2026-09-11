@@ -21,6 +21,14 @@
 не претендует на «закон природы». Наука же строит объяснительные модели
 и проверяет их.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Перечислять отличительные признаки научного познания
+- Различать «знание почему» и «знание как» в обыденном и научном познании
+- Описывать соотношение науки с религией и искусством
+
 ## Авторский синтез: размежевание с метафизикой в позитивизме
 
 (Раздел вне прямых цитат корпуса.) Позитивизм (Конт, Милль, Спенсер —
@@ -52,3 +60,7 @@
 
 > **Цитата:** «too bumble to transcend evidence, and to add, out of their own imaginations, to that which is, and may be, referred to other judgments. If it be desired to extinguish pre¬ sumption, to dmfr away from low aims, to fill life with worthy occupations and elevating pleasures, and to raise human hope and human effort to the highest attainable point, it seems to me that the best resource is the pursuit of Positive Philosophy, with its train of noble truths and irresistible inducements. The prospects it opens are boundless ; for among the laws it establishes that of human progress is conspicuous. The virtues it fosters are all those of which Man is c»
 > **Источник:** `txt/philosophy__Comte_Positive_Philosophy.txt` · фрагмент #5554
+
+---
+
+**Навигация:** [← Занятие 01](01_predmet_filosofii_nauki.md) · [Программа курса](../syllabus.md) · [Занятие 03 →](03_antichnye_programmy.md) · *Осенний семестр*

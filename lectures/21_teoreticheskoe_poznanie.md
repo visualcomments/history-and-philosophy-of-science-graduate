@@ -29,44 +29,27 @@
 гипотеза → теория) с методологическими критериями и примерами из
 физики/биологии.
 
+## Цели занятия
+
+По завершении занятия вы сможете:
+
+- Определять понятия проблемы, идеи, гипотезы и теории
+- Перечислять требования к научной гипотезе
+- Называть функции теории и объяснять её строение
+
 ## Источники и свидетельства
 > **Цитата:** «Both therefore make hypotheses, and this indeed is necessary, since no scientist has ever been able to get on without them. The essential thing is never to make them unconsciously.»
 > **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
-
 
 Пуанкаре — роль гипотезы в науке (гипотезы необходимы, но должны быть
 проверяемы):
 
 > **Цитата:** «seek in them the basis of things, may both be useful in- struments of research ; and perhaps the reading of Maxwell would»
-**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
-
+**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
 Декарт — правила дедукции и проверки выводов (метод полного охвата):
 
 > **Цитата:** «Both therefore make hypotheses, and this indeed is necessary, since no scientist has ever been able to get on without them. The essential thing is never to make them unconsciously.»
-**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент —
-
-> `verification/REPORT.md`)
-
-## Вопросы для самопроверки
-
-1. Дайте определение проблемы, идеи, гипотезы, теории.
-2. Перечислите требования к научной гипотезе.
-3. Каковы функции теории?
-
-## Задания
-
-- **С источником:** найдите в `philosophy__Poincare_Science_and_Hypothesis.txt`
-  фрагмент о роли гипотез и выпишите его с координатами.
-- **Аналитическое:** проследите «жизненный цикл» одной гипотезы в
-  истории науки (например, гипотеза света: корпускула → волна → дуализм)
-  через стадии проблема → идея → гипотеза → теория
-
-Декарт — правила дедукции и проверки выводов (метод полного охвата):
-
-> **Цитата:** «...make enumerations so complete and reviews so general that I might be assured that nothing was omitted...»
-**Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент —
-
-> `verification/REPORT.md`)
+**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
 
 ## Вопросы для самопроверки
 
@@ -81,3 +64,7 @@
 - **Аналитическое:** проследите «жизненный цикл» одной гипотезы в
   истории науки (например, гипотеза света: корпускула → волна → дуализм)
   через стадии проблема → идея → гипотеза → теория.
+
+---
+
+**Навигация:** [← Занятие 20](20_empiricheskoe_poznanie.md) · [Программа курса](../syllabus.md) · [Занятие 22 →](22_metod.md) · *Весенний семестр*
