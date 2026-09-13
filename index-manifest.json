@@ -1,33 +1,49 @@
 {
  "schema": 1,
- "note": "Манифест индекса корпуса курса «История и философия науки» (PD + статьи CC BY-SA). Разместите архив на Google Диске (доступ по ссылке) и впишите URL в index-manifest.json или COURSE_INDEX_URL.",
- "index_version": "2026-09-02",
+ "index_version": "2026-09-13",
+ "note": "Индекс корпуса курса «История и философия науки» (аспирантура, 26 занятий). Корпус расширен с 29 до 98 файлов: +16 первоисточников общественного достояния (Платон, Кант «Пролегомены» и «Критика практического разума», Мах ×2, Рассел ×2, Витгенштейн ×2, Уайтхед, Пирс, Шлик, Спиноза, Лейбниц, Локк), +38 статей Wikipedia (CC BY-SA 4.0), +15 научных статей под CC-лицензиями (DOAJ, лицензии подтверждены через журнал и Crossref; 30 нерелевантных отброшены). Индекс: 98 файлов, 24 748 чанков (чанк 512/128 сохранён). Материал под авторским правом (Кун 1962, Поппер 1959/1962, Райхенбах 1938) в корпус не включён — только абонемент на Internet Archive.",
  "archive": {
-  "filename": "course-index-graduate-2026-09-02.zip",
-  "size_bytes": 138969354,
-  "sha256": "F20C775A7F92FB1D2E2F6A79D9CF1CBD03698ADD301E7E9875FB4972447CD996",
-  "url": "https://drive.google.com/file/d/1KiAbMWm8JfMgMzgz1pU0NieSBQW9Z4nT/view?usp=sharing"
+  "filename": "grad-index-2026-09-13.zip",
+  "size_bytes": 84122726,
+  "sha256": "7C812F637A2282CB9E07DBF21D77A0440F8FBBCE380DC31DBEE27DF2D2636903",
+  "url": "https://drive.google.com/uc?export=download&id=1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4",
+  "file_id": "1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4",
+  "view_url": "https://drive.google.com/file/d/1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4/view"
  },
  "files": [
   {
    "path": "annoy.index",
-   "size_bytes": 77951088,
-   "sha256": "138AF4811F2C48DC55B426758E57CFCD61A9B22EAECB75D9010693FD1CEB6327"
+   "size_bytes": 43523568,
+   "sha256": "AFE333CBD9807872B3DD1C1AC59BB6763F534814FDFA58F549389FD9F51186A4"
   },
   {
    "path": "chunks.jsonl",
-   "size_bytes": 28708269,
-   "sha256": "E099E2A7FDD5A891CDF88A360E9003DD04B3610BAC342CB842474007F3157891"
+   "size_bytes": 35048961,
+   "sha256": "2A8AC0876766AA3EEB692E6A78556DF50EE696B0B1815DD17D9D87D6DE3D9E3B"
   },
   {
    "path": "config.json",
-   "size_bytes": 1469,
-   "sha256": "AF4A83F1054031985937F735BADDCFD435918A1EAA244F8526072275031416D2"
+   "size_bytes": 4912,
+   "sha256": "C506EB9CD8BD71E25FFF3FE1A904F04105D36A4E999ED373C138D0DB6ABC08D9"
   },
   {
    "path": "embeddings.npy",
-   "size_bytes": 68327552,
-   "sha256": "38AB5CFBD5673501376B021AC0378667CE15B3A2F002BCCC0242CA7D232BB805"
+   "size_bytes": 38013056,
+   "sha256": "236848F8672D28D71363D83080B69AA829B9A0D2EC8416462B4B0A7D278CE8D8"
   }
- ]
+ ],
+ "corpus": {
+  "n_files": 98,
+  "n_chunks": 24748,
+  "composition": {
+   "philosophy_public_domain": 29,
+   "wikipedia_cc_by_sa": 54,
+   "oa_cc_licensed_articles": 15
+  },
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dim": 384,
+  "chunk_chars": 512,
+  "overlap": 128,
+  "coverage_note": "Покрытие проверено: 200/200 случайных 60-символьных окон длинного источника присутствуют в индексе (100%)."
+ }
 }

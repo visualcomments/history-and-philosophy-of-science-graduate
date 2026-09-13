@@ -50,10 +50,74 @@ CC BY-SA 4.0». Тексты получены по `action=raw` без изме�
 удалены разметка и примечания. Полный текст лицензий: CC BY-SA 4.0 —
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
+## Расширение корпуса 2026-09-13 (индекс 2026-09-13)
+
+Корпус вырос с 29 до **98 файлов** (31,1 МБ); индекс — 98 файлов,
+**24 748 чанков** (чанк 512/128). Подробная таблица по каждому файлу —
+в `docs/corpus-new-sources.md`.
+
+### Добавленные первоисточники общественного достояния (16)
+
+Internet Archive, OCR `_djvu.txt`. Перед скачиванием проверялось поле
+`access-restricted-item`: берутся только издания со свободным доступом.
+
+| Файл | Произведение | Год |
+|---|---|---|
+| `philosophy__Plato_Republic.txt` | Платон, «Государство» (пер. Джоуэтта) | 1907 |
+| `philosophy__Plato_Timaeus.txt` | Платон, «Тимей» | 1888 |
+| `philosophy__Kant_Prolegomena.txt` | Кант, «Пролегомены» | 1909 |
+| `philosophy__Kant_Critique_of_Practical_Reason.txt` | Кант, «Критика практического разума» | 1909 |
+| `philosophy__Mach_Science_of_Mechanics.txt` | Мах, «Механика» | 1893 |
+| `philosophy__Mach_Analysis_of_Sensations.txt` | Мах, «Анализ ощущений» | 1914 |
+| `philosophy__Russell_Problems_of_Philosophy.txt` | Рассел, «Проблемы философии» | 1912 |
+| `philosophy__Russell_Analysis_of_Mind.txt` | Рассел, «Анализ разума» | 1921 |
+| `philosophy__Wittgenstein_Tractatus.txt` | Витгенштейн, «Логико-философский трактат» | 1922 |
+| `philosophy__Wittgenstein_Tractatus_1954.txt` | то же, другое издание | 1954 |
+| `philosophy__Whitehead_Science_and_the_Modern_World.txt` | Уайтхед, «Наука и современный мир» | 1925 |
+| `philosophy__Peirce_Chance_Love_and_Logic.txt` | Пирс, «Chance, Love, and Logic» | 1923 |
+| `philosophy__Schlick_Space_and_Time_in_Contemporary_Physics.txt` | Шлик, «Пространство и время…» | 1920 |
+| `philosophy__Spinoza_Ethics.txt` | Спиноза, «Этика» | 1888 |
+| `philosophy__Leibniz_New_Essays.txt` | Лейбниц, «Новые опыты…» | 1916 |
+| `philosophy__Locke_Conduct_of_the_Understanding.txt` | Локк, «Об управлении разумом» | 1891 |
+
+**Исправление прежней записи.** Ранее в этом файле утверждалось, что Рассел
+и Витгенштейн не могут быть в корпусе из-за авторского права. Это неверно
+для их ранних работ: «Проблемы философии» (1912), «Анализ разума» (1921) и
+«Логико-философский трактат» (1922) — общественное достояние по дате
+публикации, и они доступны на Internet Archive без ограничений. Они
+включены.
+
+### Добавленные статьи Wikipedia (CC BY-SA 4.0) — 38
+
+Epistemology, Empiricism, Rationalism, Problem of induction, Demarcation
+problem, Scientific realism, Instrumentalism, The Structure of Scientific
+Revolutions, Critical rationalism, Paul Feyerabend, Theories of truth,
+Correspondence/Coherence/Pragmatic theory of truth, Causality, Quantum
+indeterminacy, Philosophy of space and time, Philosophy of physics,
+Philosophy of mind, Hard problem of consciousness, Physicalism, Scientific
+explanation, Reductionism, Emergence, Positivism, Auguste Comte, Ernst Mach,
+Pierre Duhem, Henri Poincaré, Moritz Schlick, Rudolf Carnap, Bertrand
+Russell, Ludwig Wittgenstein, Otto Neurath, Carl Hempel, Willard Van Orman
+Quine, David Hume, Immanuel Kant.
+
+### Добавленные научные статьи под CC-лицензиями (`oa__*`) — 15
+
+Открытый доступ (DOAJ); лицензия проверена на уровне записи журнала и
+подтверждена через Crossref по DOI. Манифест —
+`catalog/doaj_philosophy_admitted.json`. Из 45 найденных статей 30
+отброшены как нерелевантные (преподавание, религиоведение, медицина,
+рецензии, отозванная статья) — см. `scripts/filter_oa_relevance.py`.
+Тематика оставленных: эпистемология Куна и Поппера, фальсификационизм и
+проблема индукции, научные революции, научный реализм, причинность,
+философия физики.
+
 ## Что НЕ в корпусе
 
-- Авторы XX в. (Поппер, Кун, Лакатос, Фейерабенд, Рассел, Витгенштейн,
-  Карнап и др.): оригиналы охраняются авторским правом — в занятиях
-  излагаются авторским синтезом («вне корпуса») + ссылки на свободные
-  обзоры (Википедия CC BY-SA).
+- **Кун, «Структура научных революций»** (1962); **Поппер, «Логика
+  научного исследования»** (1959) и **«Предположения и опровержения»**
+  (1962); **Райхенбах, «Experience and Prediction»** (1938). Проверено поле
+  `access-restricted-item = true` — на Internet Archive это только
+  абонемент, авторское право действует. Их содержание излагается авторским
+  синтезом («вне корпуса») и подкрепляется обзорными статьями Wikipedia
+  (CC BY-SA) и CC-статьями.
 - Современные коммерческие издания и переводы.
