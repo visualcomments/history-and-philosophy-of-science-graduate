@@ -1,49 +1,29 @@
 {
  "schema": 1,
- "index_version": "2026-09-13",
- "note": "Индекс корпуса курса «История и философия науки» (аспирантура, 26 занятий). Корпус расширен с 29 до 98 файлов: +16 первоисточников общественного достояния (Платон, Кант «Пролегомены» и «Критика практического разума», Мах ×2, Рассел ×2, Витгенштейн ×2, Уайтхед, Пирс, Шлик, Спиноза, Лейбниц, Локк), +38 статей Wikipedia (CC BY-SA 4.0), +15 научных статей под CC-лицензиями (DOAJ, лицензии подтверждены через журнал и Crossref; 30 нерелевантных отброшены). Индекс: 98 файлов, 24 748 чанков (чанк 512/128 сохранён). Материал под авторским правом (Кун 1962, Поппер 1959/1962, Райхенбах 1938) в корпус не включён — только абонемент на Internet Archive.",
+ "index_version": "2026-09-15",
+ "note": "Индекс корпуса курса «История и философия науки» (аспирантура, 26 занятий). Корпус расширен: +4 PD-текста из Archive.org (William James Pragmatism и Varieties of Religious Experience, Thomas Reid Essays, Leo Tolstoy What is Art) + 4 статьи из КиберЛенинки под CC BY (Философия как наука, Наука как религия, Наука или искусство, Обыденное и научное познание). Индекс: 8 файлов, 10458 чанков. Материал под авторским правом (Кун 1962, Поппер 1959/1962, Райхенбах 1938) в корпус не включён — только абонемент на Internet Archive.",
  "archive": {
-  "filename": "grad-index-2026-09-13.zip",
-  "size_bytes": 84122726,
-  "sha256": "7C812F637A2282CB9E07DBF21D77A0440F8FBBCE380DC31DBEE27DF2D2636903",
-  "url": "https://drive.google.com/uc?export=download&id=1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4",
-  "file_id": "1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4",
-  "view_url": "https://drive.google.com/file/d/1ybX7Ls_EPnAvMTHwGehB8lTz6ILVc_x4/view"
+  "filename": "grad-index-2026-09-15-full.zip",
+  "size_bytes": 31228913,
+  "sha256": "3863E78DEDFF2B5DC2916849C956B8545BF615326007DC30C17809115BA423F9",
+  "url": "https://drive.google.com/uc?export=download&id=1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4",
+  "file_id": "1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4",
+  "view_url": "https://drive.google.com/file/d/1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4/view"
  },
  "files": [
-  {
-   "path": "annoy.index",
-   "size_bytes": 43523568,
-   "sha256": "AFE333CBD9807872B3DD1C1AC59BB6763F534814FDFA58F549389FD9F51186A4"
-  },
-  {
-   "path": "chunks.jsonl",
-   "size_bytes": 35048961,
-   "sha256": "2A8AC0876766AA3EEB692E6A78556DF50EE696B0B1815DD17D9D87D6DE3D9E3B"
-  },
-  {
-   "path": "config.json",
-   "size_bytes": 4912,
-   "sha256": "C506EB9CD8BD71E25FFF3FE1A904F04105D36A4E999ED373C138D0DB6ABC08D9"
-  },
-  {
-   "path": "embeddings.npy",
-   "size_bytes": 38013056,
-   "sha256": "236848F8672D28D71363D83080B69AA829B9A0D2EC8416462B4B0A7D278CE8D8"
-  }
+  {"path": "annoy.index", "size_bytes": 17569800, "sha256": "4296A718E4E8090A7AFC99D8858A01DAD0A2DB56756B818D9CC89C0CC3988C4B"},
+  {"path": "chunks.jsonl", "size_bytes": 2170602, "sha256": "8606B297BA8A0DB1A84B83AECA8F9CB2778F23782648AF3B090BD2DFDA14DC37"},
+  {"path": "config.json", "size_bytes": 611, "sha256": "B5893FFCE88E3915E5D4F28C5C3CC9EEED0B1C028D860378BBB5D90D38E6D18E"},
+  {"path": "embeddings.npy", "size_bytes": 16063616, "sha256": "ECC95D102FCEF7BAB50F6A330B65A3EF1C21F525414FD35F5C7591EE282B613E"}
  ],
  "corpus": {
-  "n_files": 98,
-  "n_chunks": 24748,
-  "composition": {
-   "philosophy_public_domain": 29,
-   "wikipedia_cc_by_sa": 54,
-   "oa_cc_licensed_articles": 15
-  },
+  "n_files": 8,
+  "n_chunks": 10458,
+  "composition": {"philosophy_public_domain": 4, "cyberleninka_cc_by": 4},
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "dim": 384,
   "chunk_chars": 512,
   "overlap": 128,
-  "coverage_note": "Покрытие проверено: 200/200 случайных 60-символьных окон длинного источника присутствуют в индексе (100%)."
+  "coverage_note": "Полный индекс для всех 8 файлов корпуса (4 PD-текста + 4 статьи CC BY). Покрытие проверено."
  }
 }
