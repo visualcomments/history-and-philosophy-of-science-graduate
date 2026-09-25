@@ -6,24 +6,47 @@
   "filename": "grad-index-2026-09-15-full.zip",
   "size_bytes": 31228913,
   "sha256": "3863E78DEDFF2B5DC2916849C956B8545BF615326007DC30C17809115BA423F9",
-  "url": "https://drive.google.com/uc?export=download&id=1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4",
+  "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus",
   "file_id": "1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4",
-  "view_url": "https://drive.google.com/file/d/1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4/view"
+  "view_url": "https://drive.google.com/file/d/1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4/view",
+  "kind": "huggingface",
+  "hf_total_bytes": 233196014,
+  "sha256_note": "per-file sha256 in files[]; aggregate not applicable to HF source"
  },
  "files": [
-  {"path": "annoy.index", "size_bytes": 17569800, "sha256": "4296A718E4E8090A7AFC99D8858A01DAD0A2DB56756B818D9CC89C0CC3988C4B"},
-  {"path": "chunks.jsonl", "size_bytes": 2170602, "sha256": "8606B297BA8A0DB1A84B83AECA8F9CB2778F23782648AF3B090BD2DFDA14DC37"},
-  {"path": "config.json", "size_bytes": 611, "sha256": "B5893FFCE88E3915E5D4F28C5C3CC9EEED0B1C028D860378BBB5D90D38E6D18E"},
-  {"path": "embeddings.npy", "size_bytes": 16063616, "sha256": "ECC95D102FCEF7BAB50F6A330B65A3EF1C21F525414FD35F5C7591EE282B613E"}
+  {
+   "path": "annoy.index",
+   "size_bytes": 82534716,
+   "sha256": "FC5B3D56758D14F24365559243F172E322A5DD0800527E859FBB76F2B8741F06"
+  },
+  {
+   "path": "chunks.jsonl",
+   "size_bytes": 75775810,
+   "sha256": "C5711028ED1301B18BDA099063EA1F2AD9EC5E12A2B5B381A133AB7C633050BD"
+  },
+  {
+   "path": "config.json",
+   "size_bytes": 3824,
+   "sha256": "0031854641A01E3A264FCA588E457DC1D8E63D24661F80981EF77C6C8F553F73"
+  },
+  {
+   "path": "embeddings.npy",
+   "size_bytes": 74881664,
+   "sha256": "75FBDD78EF32A4844992F9B7EBA22B6E3BFD31A675873D4C2BE59319212408A0"
+  }
  ],
  "corpus": {
   "n_files": 8,
   "n_chunks": 10458,
-  "composition": {"philosophy_public_domain": 4, "cyberleninka_cc_by": 4},
+  "composition": {
+   "philosophy_public_domain": 4,
+   "cyberleninka_cc_by": 4
+  },
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "dim": 384,
   "chunk_chars": 512,
   "overlap": 128,
   "coverage_note": "Полный индекс для всех 8 файлов корпуса (4 PD-текста + 4 статьи CC BY). Покрытие проверено."
- }
+ },
+ "index_hf_kind": "huggingface"
 }
