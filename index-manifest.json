@@ -36,11 +36,13 @@
   }
  ],
  "corpus": {
-  "n_files": 8,
-  "n_chunks": 10458,
+  "n_files": 107,
+  "n_chunks": 50493,
   "composition": {
-   "philosophy_public_domain": 4,
-   "cyberleninka_cc_by": 4
+   "philosophy_public_domain": 67,
+   "oa_cc_licensed_articles": 3,
+   "ru_language_publications": 31,
+   "wikipedia_cc_by_sa": 6
   },
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "dim": 384,
