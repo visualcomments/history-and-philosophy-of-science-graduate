@@ -32,7 +32,7 @@
 
 ## Источники и свидетельства
 > **Цитата:** «If this Discourse appear too long to be read at once, it may be divided into six parts: and, in the first, will be found various considerations touching the Sciences ; in the second, the principal rules of the Method vi^hich the Author has discovered; in the third, certain of the rules of Morals which he has deduced from this Method; in the fourth, the reasonings by which he establishes the existence of God and of the Human Soul, which are the foundations of his Metaphysic; in the fifth, the order of the Physical questions which he has investigated, and, in particular, the explication of the motion of the heart and of some other difficulties »
-> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8215
+> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #2524
 
 Математическая программа: пифагорейцы утверждали, что начала вещей —
 числа; эту установку античность передала Новому времени через
@@ -41,7 +41,7 @@
 природа как протяжённая субстанция, познаваемая геометрически:
 
 > **Цитата:** «imple and easy reasonings by means of which geometers are accustomed to reach the conclusions of their most difficult demonstrations, had led me to imagine that all things, to the k»
-**Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8215
+**Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #2553
 Атомистический мотив — природа из «атомов и пустоты» — предвосхищает
 механику; в античной историографии науки этот образ закреплён как
 программа Демокрита.

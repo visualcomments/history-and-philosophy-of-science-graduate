@@ -39,17 +39,17 @@
 
 ## Источники и свидетельства
 > **Цитата:** «Both therefore make hypotheses, and this indeed is necessary, since no scientist has ever been able to get on without them. The essential thing is never to make them unconsciously.»
-> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
+> **Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #18898
 
 Пуанкаре — роль гипотезы в науке (гипотезы необходимы, но должны быть
 проверяемы):
 
 > **Цитата:** «seek in them the basis of things, may both be useful in- struments of research ; and perhaps the reading of Maxwell would»
-**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
+**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #19211
 Декарт — правила дедукции и проверки выводов (метод полного охвата):
 
 > **Цитата:** «Both therefore make hypotheses, and this indeed is necessary, since no scientist has ever been able to get on without them. The essential thing is never to make them unconsciously.»
-**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #37981
+**Источник:** `txt/philosophy__Poincare_Science_and_Hypothesis.txt` · фрагмент #18898
 
 ## Вопросы для самопроверки
 

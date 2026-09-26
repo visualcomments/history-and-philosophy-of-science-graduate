@@ -35,13 +35,13 @@
 
 ## Источники и свидетельства
 > **Цитата:** «If this Discourse appear too long to be read at once, it may be divided into six parts: and, in the first, will be found various considerations touching the Sciences ; in the second, the principal rules of the Method vi^hich the Author has discovered; in the third, certain of the rules of Morals which he has deduced from this Method; in the fourth, the reasonings by which he establishes the existence of God and of the Human Soul, which are the foundations of his Metaphysic; in the fifth, the order of the Physical questions which he has investigated, and, in particular, the explication of the motion of the heart and of some other difficulties »
-> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8215
+> **Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #2524
 
 Декарт в «Рассуждении о методе» описывает новый универсальный метод,
 претендующий на место схоластического органона:
 
 > **Цитата:** «You see that opinions are subject to revolutions as well as empires. Arianism, after having triumphed during three centuries, and been forgot twelve, rises at last out of its own ashes ; but it has chosen a very improper season to make its appearance in, the present age being quite cloyed with disputes and sects. The members of this sect are, be- sides, too few to be indulged the liberty of holding public assemblies, which, however, they will, doubtless, be permitted to do in case they spread considerably. But people are now so very cold with respect to all things of this kind, that there is little probability any new religion, or old one, th»
-**Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #8215
+**Источник:** `txt/philosophy__Descartes_Discourse_on_Method.txt` · фрагмент #2696
 ## Авторский синтез: что именно «революционировало»
 
 (Раздел вне прямых цитат корпуса.) Радикальность Нового времени — в

@@ -35,17 +35,17 @@
 
 ## Источники и свидетельства
 > **Цитата:** «The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find en¬ trance, but even after entrance obtained, they will again in the very instauration of the sciences meet and trouble us, unless men being forewarned of the danger fortify themselves as far as may be against their assaults.»
-> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
+> **Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #166
 
 Бэкон формулирует цель своего предприятия — власть человека над
 природой через знание причин:
 
 > **Цитата:** «...human knowledge and human power meet in one; for where the cause is not known the effect cannot be produced...»
-**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
+**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #156
 Бэкон о «идолах» как препятствиях познания:
 
 > **Цитата:** «The idols and false notions which are now in possession of the human understanding, and have taken deep root therein, not only so beset men’s minds that truth can hardly find en¬ trance, but even after entrance obtained, they will again in the very instauration of the sciences meet and trouble us, unless men being forewarned of the danger fortify themselves as far as may be against their assaults.»
-**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #396
+**Источник:** `txt/philosophy__Bacon_Novum_Organum.txt` · фрагмент #166
 ## Авторский синтез: Локк и «чистая доска»
 
 (Раздел вне прямых цитат корпуса.) Локк переносит эмпиризм в теорию
