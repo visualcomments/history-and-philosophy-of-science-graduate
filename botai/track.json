@@ -1,0 +1,986 @@
+{
+  "schema_version": 2,
+  "modules": [
+    {
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Историческое введение",
+      "order": 0,
+      "objective_ids": [
+        "lec-01",
+        "lec-02",
+        "lec-03",
+        "lec-04",
+        "lec-05",
+        "lec-06",
+        "lec-07",
+        "lec-08",
+        "lec-09",
+        "lec-10",
+        "lec-11",
+        "lec-12",
+        "lec-13"
+      ],
+      "source_refs": [
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 15,
+              "end": 15
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 16,
+              "end": 16
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 17,
+              "end": 17
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 18,
+              "end": 18
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 19,
+              "end": 19
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 20,
+              "end": 20
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 21,
+              "end": 21
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 22,
+              "end": 22
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 23,
+              "end": 23
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 24,
+              "end": 24
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 25,
+              "end": 25
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 26,
+              "end": 26
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 27,
+              "end": 27
+            }
+          }
+        }
+      ]
+    },
+    {
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Философия и методология науки",
+      "order": 1,
+      "objective_ids": [
+        "lec-14",
+        "lec-15",
+        "lec-16",
+        "lec-17",
+        "lec-18",
+        "lec-19",
+        "lec-20",
+        "lec-21",
+        "lec-22",
+        "lec-23",
+        "lec-24",
+        "lec-25",
+        "lec-26"
+      ],
+      "source_refs": [
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 33,
+              "end": 33
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 34,
+              "end": 34
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 35,
+              "end": 35
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 36,
+              "end": 36
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 37,
+              "end": 37
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 38,
+              "end": 38
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 39,
+              "end": 39
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 40,
+              "end": 40
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 41,
+              "end": 41
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 42,
+              "end": 42
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 43,
+              "end": 43
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 44,
+              "end": 44
+            }
+          }
+        },
+        {
+          "path": "syllabus.md",
+          "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+          "locator": {
+            "lines": {
+              "start": 45,
+              "end": 45
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "objective_id": "lec-01",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Предметное поле философии науки; наука как социальный институт",
+      "prerequisites": [],
+      "source_refs": [
+        {
+          "path": "lectures/01_predmet_filosofii_nauki.md",
+          "sha256": "fa5db3b2cda285d15d8a30fb2207736956e9bb32b63bfe0f9abe37355c053b39",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-02",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Наука как форма познания: наука, обыденное знание, религия, искусство",
+      "prerequisites": [
+        "lec-01"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/02_nauka_kak_forma_poznaniya.md",
+          "sha256": "3bb1e1aa7bd0cb7e19a3bde513503394e73c44aa1157a51fde06fd30266ff7d6",
+          "locator": {
+            "lines": {
+              "start": 24,
+              "end": 30
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-03",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Научные программы античности: атомистическая и математическая",
+      "prerequisites": [
+        "lec-02"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/03_antichnye_programmy.md",
+          "sha256": "6f9ccd5e81a578c2a9f3b2d8ea8d925031845cb6a67a0d79b9a78fcf2dad06e1",
+          "locator": {
+            "lines": {
+              "start": 25,
+              "end": 31
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-04",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Научная программа Аристотеля",
+      "prerequisites": [
+        "lec-03"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/04_aristotel.md",
+          "sha256": "b203464859f8a88db5c171eaad28ae37aa7a8ce946ae3b1943633733e6d34804",
+          "locator": {
+            "lines": {
+              "start": 26,
+              "end": 32
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-05",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Научная и инженерно-техническая мысль в эпоху Возрождения",
+      "prerequisites": [
+        "lec-04"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/05_vozrozhdenie.md",
+          "sha256": "a884308a4e1b768b17c7022511011462006f1795a59c544a6750f3ecdb233dde",
+          "locator": {
+            "lines": {
+              "start": 22,
+              "end": 28
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-06",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Научная революция Нового времени: причины, направления, представители",
+      "prerequisites": [
+        "lec-05"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/06_nauchnaya_revolyuciya.md",
+          "sha256": "493e7147f254ed4f6ea522e483885c2c765dcb201c32afebc87701c75b84a9b1",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-07",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Эмпиризм XVII в.: Бэкон, Гоббс, Локк",
+      "prerequisites": [
+        "lec-06"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/07_empirizm.md",
+          "sha256": "82cda72e4d9635421262fa61959f1815ce31dc55010d4781fa05a8f89a891aa7",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-08",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Рационализм XVII в.: Декарт, Спиноза, Лейбниц",
+      "prerequisites": [
+        "lec-07"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/08_racionalizm.md",
+          "sha256": "76ee906e56e6b954190fd4d6517ae00e4c6f11a9224a2e2dd800dfe45946295f",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-09",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Феноменалистическая критика: Беркли, Юм",
+      "prerequisites": [
+        "lec-08"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/09_berkli_yum.md",
+          "sha256": "729feb31c10b88cf7098f4636c8fecef9e5e9bf6d48cfa690bd05eb842a9b25a",
+          "locator": {
+            "lines": {
+              "start": 29,
+              "end": 35
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-10",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Кант: концепция научного знания, «чистый разум», феномены и ноумены",
+      "prerequisites": [
+        "lec-09"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/10_kant.md",
+          "sha256": "222e4176b7a591c2db8aff5ea80c1ad6dd8f7e17f0f1403f776f9a83ee2d6e0b",
+          "locator": {
+            "lines": {
+              "start": 25,
+              "end": 31
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-11",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "«Первый» позитивизм: Конт, Милль, Спенсер",
+      "prerequisites": [
+        "lec-10"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/11_pervy_pozitivizm.md",
+          "sha256": "18a18a29d76f71c7a8143c840d316cedf2d43f6e057091238a63a32513b96a31",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-12",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "Революция в естествознании конца XIX — первой трети XX в.",
+      "prerequisites": [
+        "lec-11"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/12_revolyuciya_estestvoznaniya.md",
+          "sha256": "d37dee232498caaf25a11ac6c4b075af75dc257601e038941653ecc818dea71e",
+          "locator": {
+            "lines": {
+              "start": 25,
+              "end": 31
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-13",
+      "module_id": "istoricheskoe-vvedenie",
+      "title": "«Второй» позитивизм: Мах, Пуанкаре, Дюгем",
+      "prerequisites": [
+        "lec-12"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/13_vtoroy_pozitivizm.md",
+          "sha256": "30cf4e851c85e5866552eb461c284b600b00f46934e2ceb8aaa4465d11e5705d",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-14",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Логический атомизм Рассела и Витгенштейна",
+      "prerequisites": [
+        "lec-13"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/14_logicheskiy_atomizm.md",
+          "sha256": "4f13839ffb98472d0b1188e59bc925cd192d755303f8997f38cfbfa9c22b513b",
+          "locator": {
+            "lines": {
+              "start": 30,
+              "end": 36
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-15",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Логический позитивизм «Венского кружка»: демаркация и верификационизм",
+      "prerequisites": [
+        "lec-14"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/15_logicheskiy_pozitivizm.md",
+          "sha256": "d0a899c10754303fe6457ba9ba79782936e0efa11b80bcb64c4d43a94f8a9a35",
+          "locator": {
+            "lines": {
+              "start": 32,
+              "end": 38
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-16",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Поппер: фальсификационизм и концепция «трёх миров»",
+      "prerequisites": [
+        "lec-15"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/16_popper.md",
+          "sha256": "fb3685fbb1315edcbcc9120d062a7c8bd04e73e59c44f01fd5144394dc23b04e",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-17",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Кун: научные революции и парадигмы",
+      "prerequisites": [
+        "lec-16"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/17_kun.md",
+          "sha256": "37d268157bcb7d3da0a7156d36933507b46164ece0f16548ecf8d075bc04d882",
+          "locator": {
+            "lines": {
+              "start": 25,
+              "end": 31
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-18",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Лакатос: научно-исследовательские программы",
+      "prerequisites": [
+        "lec-17"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/18_lakatos.md",
+          "sha256": "9662d821525b2212e56b0c0ead3efd691f8b3d122884956887d103773c59254a",
+          "locator": {
+            "lines": {
+              "start": 28,
+              "end": 34
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-19",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Фейерабенд: эпистемологический анархизм",
+      "prerequisites": [
+        "lec-18"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/19_feyrabend.md",
+          "sha256": "7fa6d533b19906dd6aa7544163b5f62b34bb4d8b9f730567744c7b77b86d5f86",
+          "locator": {
+            "lines": {
+              "start": 26,
+              "end": 32
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-20",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Эмпирическое познание: факт, наблюдение, эксперимент, измерение",
+      "prerequisites": [
+        "lec-19"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/20_empiricheskoe_poznanie.md",
+          "sha256": "1120df25778c071435fbf758818a37f04884b8071b69d78b5f5d9815f2f04c9e",
+          "locator": {
+            "lines": {
+              "start": 30,
+              "end": 36
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-21",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Теоретическое познание: проблема, идея, гипотеза, теория",
+      "prerequisites": [
+        "lec-20"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/21_teoreticheskoe_poznanie.md",
+          "sha256": "410db09892f969a87f3a9ad50570a53e8764d10ca3ec6654c43592a4ace2027e",
+          "locator": {
+            "lines": {
+              "start": 32,
+              "end": 38
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-22",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Понятие научного метода; общенаучные и частные методы",
+      "prerequisites": [
+        "lec-21"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/22_metod.md",
+          "sha256": "c1679f51d2a9fffa614572e5f7f4eb6f719cb7e7f15c10217c55cd7013793470",
+          "locator": {
+            "lines": {
+              "start": 33,
+              "end": 39
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-23",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Понятие истины: корреспондентная, когерентная, конвенциональная, прагматическая концепции",
+      "prerequisites": [
+        "lec-22"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/23_istina.md",
+          "sha256": "7f0bbd87babad2198f511b8b83fe34fb2f774dfff3d038cbe727ed58297d32f3",
+          "locator": {
+            "lines": {
+              "start": 34,
+              "end": 40
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-24",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Детерминизм и причинность; вероятностная причинность в квантовой физике",
+      "prerequisites": [
+        "lec-23"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/24_determinizm.md",
+          "sha256": "2b3cd7504400e9da34dcd8254937399a8bcb754a3e79307c444ee32782f3d118",
+          "locator": {
+            "lines": {
+              "start": 29,
+              "end": 35
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "apply"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-25",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Пространство и время; философские проблемы теории относительности",
+      "prerequisites": [
+        "lec-24"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/25_prostranstvo_vremya.md",
+          "sha256": "3ef24b038545034f893a9b249c28277b9c6bc49e647e16d0f2e15c4905ce5726",
+          "locator": {
+            "lines": {
+              "start": 33,
+              "end": 39
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    },
+    {
+      "objective_id": "lec-26",
+      "module_id": "filosofiya-i-metodologiya-nauki",
+      "title": "Искусственный интеллект и модели сознания",
+      "prerequisites": [
+        "lec-25"
+      ],
+      "source_refs": [
+        {
+          "path": "lectures/26_ii_soznanie.md",
+          "sha256": "50e974cd6d7feeed4094bddfe226f8f31d78379f32d9358de1ac19c6394a09c7",
+          "locator": {
+            "lines": {
+              "start": 33,
+              "end": 39
+            }
+          }
+        }
+      ],
+      "check_kinds": [
+        "explain",
+        "critique"
+      ],
+      "estimated_minutes": 90,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "schema_version": 2,
+  "course_id": "history-and-philosophy-of-science-graduate",
+  "title": "История и философия науки (аспирантура)",
+  "language": "ru",
+  "syllabus_path": "syllabus.md",
+  "track_path": "botai/track.json",
+  "student_material_roots": [
+    "lectures",
+    "docs",
+    "agents",
+    "syllabus.md",
+    "citations.md",
+    "CORPUS.md",
+    "PROVENANCE.md"
+  ],
+  "excluded_material_roots": [
+    "verification",
+    "tests",
+    ".github",
+    ".agents",
+    ".claude",
+    ".cursor",
+    "tools"
+  ],
+  "licenses": {
+    "code": "GPL-3.0-or-later",
+    "materials": "CC-BY-SA-4.0"
+  },
+  "contribution": {
+    "enabled": false,
+    "guide_path": null,
+    "private_submission_allowed": true,
+    "ai_disclosure_required": true
+  },
+  "corpus_manifest_path": "botai/corpus-manifest.json",
+  "environment_path": null,
+  "assignments": [
+    {
+      "assignment_id": "lec-01",
+      "path": "lectures/01_predmet_filosofii_nauki.md",
+      "objective_ids": [
+        "lec-01"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-02",
+      "path": "lectures/02_nauka_kak_forma_poznaniya.md",
+      "objective_ids": [
+        "lec-02"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-03",
+      "path": "lectures/03_antichnye_programmy.md",
+      "objective_ids": [
+        "lec-03"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-04",
+      "path": "lectures/04_aristotel.md",
+      "objective_ids": [
+        "lec-04"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-05",
+      "path": "lectures/05_vozrozhdenie.md",
+      "objective_ids": [
+        "lec-05"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-06",
+      "path": "lectures/06_nauchnaya_revolyuciya.md",
+      "objective_ids": [
+        "lec-06"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-07",
+      "path": "lectures/07_empirizm.md",
+      "objective_ids": [
+        "lec-07"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-08",
+      "path": "lectures/08_racionalizm.md",
+      "objective_ids": [
+        "lec-08"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-09",
+      "path": "lectures/09_berkli_yum.md",
+      "objective_ids": [
+        "lec-09"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-10",
+      "path": "lectures/10_kant.md",
+      "objective_ids": [
+        "lec-10"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-11",
+      "path": "lectures/11_pervy_pozitivizm.md",
+      "objective_ids": [
+        "lec-11"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-12",
+      "path": "lectures/12_revolyuciya_estestvoznaniya.md",
+      "objective_ids": [
+        "lec-12"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-13",
+      "path": "lectures/13_vtoroy_pozitivizm.md",
+      "objective_ids": [
+        "lec-13"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-14",
+      "path": "lectures/14_logicheskiy_atomizm.md",
+      "objective_ids": [
+        "lec-14"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-15",
+      "path": "lectures/15_logicheskiy_pozitivizm.md",
+      "objective_ids": [
+        "lec-15"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-16",
+      "path": "lectures/16_popper.md",
+      "objective_ids": [
+        "lec-16"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-17",
+      "path": "lectures/17_kun.md",
+      "objective_ids": [
+        "lec-17"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-18",
+      "path": "lectures/18_lakatos.md",
+      "objective_ids": [
+        "lec-18"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-19",
+      "path": "lectures/19_feyrabend.md",
+      "objective_ids": [
+        "lec-19"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-20",
+      "path": "lectures/20_empiricheskoe_poznanie.md",
+      "objective_ids": [
+        "lec-20"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-21",
+      "path": "lectures/21_teoreticheskoe_poznanie.md",
+      "objective_ids": [
+        "lec-21"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-22",
+      "path": "lectures/22_metod.md",
+      "objective_ids": [
+        "lec-22"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-23",
+      "path": "lectures/23_istina.md",
+      "objective_ids": [
+        "lec-23"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-24",
+      "path": "lectures/24_determinizm.md",
+      "objective_ids": [
+        "lec-24"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-25",
+      "path": "lectures/25_prostranstvo_vremya.md",
+      "objective_ids": [
+        "lec-25"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    },
+    {
+      "assignment_id": "lec-26",
+      "path": "lectures/26_ii_soznanie.md",
+      "objective_ids": [
+        "lec-26"
+      ],
+      "assessment": "graded",
+      "assessment_source": {
+        "path": "syllabus.md",
+        "sha256": "99d91518401aaeb8a569a1577eb6bf57ca8a658cf72a369838a697b7df31093c",
+        "locator": {
+          "lines": {
+            "start": 8,
+            "end": 9
+          }
+        }
+      }
+    }
+  ]
+}
