@@ -1,0 +1,32 @@
+﻿{
+  "schema": 1,
+  "index_version": "2026-10-17",
+  "note": "Corpus extended to 10+ sources per topic. Added 40 new sources: 14 PD (Aristotle, Galileo, Descartes, Kant, etc.) + 26 OA articles (Popper, Kuhn, Lakatos, Feyerabend, AI). Hosted on HuggingFace.",
+  "archive": {
+    "filename": "history-philosophy-science-corpus-2026-10-17.zip",
+    "size_bytes": 13631488,
+    "sha256": "TBD",
+    "url": "https://huggingface.co/datasets/chaotic-good-project/history-philosophy-science-corpus",
+    "kind": "huggingface"
+  },
+  "corpus": {
+    "n_files": 40,
+    "composition": {
+      "philosophy_public_domain": 14,
+      "oa_articles": 26
+    },
+    "topics_coverage": {
+      "antiquity": 3,
+      "renaissance": 3,
+      "empiricism": 2,
+      "rationalism": 2,
+      "kant": 1,
+      "popper": 7,
+      "kuhn": 3,
+      "lakatos": 5,
+      "feyerabend": 4,
+      "ai_consciousness": 3,
+      "scientific_method": 3
+    }
+  }
+}
