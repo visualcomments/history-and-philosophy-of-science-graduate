@@ -255,6 +255,40 @@ def fetch_artifact(label, url, manifest, root, kind, subdir, dest_name):
     target = os.path.join(root, dest_name)
     tmp = tempfile.mkdtemp(prefix="corpus_fetch_")
     try:
+        # Hugging Face stores the RAG index as separate LFS files rather than
+        # one archive. Download and verify each member independently.
+        if kind == "hf_dataset":
+            files = (manifest or {}).get("files", [])
+            if not files:
+                print("  ОШИБКА: в манифесте нет files[] для HF dataset")
+                return "no-files"
+            unpack = os.path.join(tmp, "unpacked")
+            os.makedirs(unpack)
+            for member in files:
+                name = member["path"]
+                dest = os.path.join(unpack, name)
+                print("  скачивание: %s" % name)
+                try:
+                    if not download(member.get("url") or url.rstrip("/") + "/resolve/main/" + name, dest):
+                        print("  ОШИБКА: загрузка не удалась")
+                        return "download-failed"
+                except Exception as e:  # noqa: BLE001 - report, never crash the deploy
+                    print("  ОШИБКА загрузки %s: %s: %s" % (name, type(e).__name__, e))
+                    return "download-failed"
+                got = sha256_file(dest)
+                if member.get("sha256") and got != member["sha256"].upper():
+                    print("  %s: контрольная сумма не совпала" % name)
+                    return "member-mismatch"
+                if member.get("size_bytes") and os.path.getsize(dest) != member["size_bytes"]:
+                    print("  %s: размер не совпал" % name)
+                    return "member-mismatch"
+            src = find_tree_root(unpack, kind)
+            target = os.path.join(root, dest_name)
+            os.makedirs(root, exist_ok=True)
+            install_dir(src, target)
+            print("  установлено: %s" % target)
+            return "ok"
+
         zpath = os.path.join(tmp, "artifact.zip")
         print("  скачивание: %s" % url)
         try:
@@ -265,6 +299,8 @@ def fetch_artifact(label, url, manifest, root, kind, subdir, dest_name):
             print("  ОШИБКА загрузки: %s: %s" % (type(e).__name__, e))
             return "download-failed"
 
+        # HF datasets publish separate LFS members, not a single archive.
+        # `hf_dataset` is handled above; archive downloads retain strict hash checks.
         ok, level, _exp = verify_archive(zpath, manifest)
         if not ok:
             return "hash-mismatch"
@@ -386,8 +422,9 @@ def main():
     if do_index:
         url = a.url or (idx_manifest or {}).get("archive", {}).get("url")
         if url:
+            index_kind = "hf_dataset" if (idx_manifest or {}).get("archive", {}).get("kind") == "huggingface_dataset" else "index"
             results["index"] = fetch_artifact(
-                "индекс корпуса", url, idx_manifest, root, "index", None, "index"
+                "индекс корпуса", url, idx_manifest, root, index_kind, None, "index"
             )
 
     if do_texts:

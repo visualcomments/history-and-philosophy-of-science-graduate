@@ -23,15 +23,20 @@ MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 
 def load():
-    import annoy  # noqa: PLC0415
     import numpy as np  # noqa: PLC0415
     cfg = json.load(open(os.path.join(IDX, "config.json"), encoding="utf-8"))
-    t = annoy.AnnoyIndex(cfg["dim"], cfg["metric"])
-    t.load(os.path.join(IDX, "annoy.index"))
     emb = np.load(os.path.join(IDX, "embeddings.npy"))
     chunks = [json.loads(l) for l in open(os.path.join(IDX, "chunks.jsonl"), encoding="utf-8")]
     norm = np.linalg.norm(emb, axis=1, keepdims=True)
     norm[norm == 0] = 1e-9
+    try:
+        import annoy  # noqa: PLC0415
+        t = annoy.AnnoyIndex(cfg["dim"], cfg["metric"])
+        t.load(os.path.join(IDX, "annoy.index"))
+    except (ImportError, OSError):
+        # Annoy has no official Windows wheels for some Python versions.
+        # Keep the downloaded index usable with an exact cosine fallback.
+        t = None
     return cfg, t, emb / norm, chunks
 
 
@@ -60,7 +65,12 @@ def main():
     v = np.array(list(model.embed([a.query])), dtype=np.float32)[0]
     vn = v / max(float(np.linalg.norm(v)), 1e-9)
 
-    ids, dists = t.get_nns_by_vector(vn.tolist(), max(a.k * 4, 20), include_distances=True)
+    if t is not None:
+        ids, dists = t.get_nns_by_vector(vn.tolist(), max(a.k * 4, 20), include_distances=True)
+    else:
+        scores = embn @ vn
+        ids = np.argsort(-scores)[:max(a.k * 4, 20)].tolist()
+        dists = [float(1 - scores[i]) for i in ids]
     out = []
     for i, d in zip(ids, dists):
         ch = chunks[i]

@@ -200,7 +200,8 @@ def main() -> int:
         arch = m.get("archive") or {}
         url = arch.get("url") or ""
         if url:
-            check(f"{mname}: у архива есть sha256", bool(arch.get("sha256")),
+            is_hf_dataset = arch.get("kind") == "huggingface_dataset"
+            check(f"{mname}: у архива есть sha256", bool(arch.get("sha256")) or is_hf_dataset,
                   "url заполнен, но sha256 пуст — повреждённую загрузку не поймать")
             files = m.get("files") or []
             check(f"{mname}: перечислены файлы с хэшами",

@@ -32,8 +32,10 @@ def main():
     sy = os.path.join(REPO, "syllabus.json")
     if os.path.exists(sy):
         d = json.load(open(sy, encoding="utf-8"))
+        sessions = d.get("sessions", [])
+        modules = d.get("modules", [])
         print(f"syllabus.json: {d['meta']['sessions_total']} занятий, "
-              f"модулей: {len(d['modules'])}")
+              f"модулей: {len(modules) if modules else 'не заданы'}")
     print()
     print("== Локальный корпус ==")
     ntxt = len(glob.glob(os.path.join(ROOT, "txt", "*.txt")))
