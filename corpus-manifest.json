@@ -1,0 +1,509 @@
+{
+  "schema": 1,
+  "corpus_version": "brics-edtech/histphil-corpus@511436aed0eef9c58476f2fe7acb173775a6263e",
+  "note": "Полный архив текстов курса: 98 UTF-8 файлов из авторитетного HF dataset. Источник и лицензии каждого текста фиксируются в PROVENANCE.md/CORPUS.md.",
+  "archive": {
+    "filename": "texts.zip",
+    "size_bytes": 32583604,
+    "sha256": "F8D835E197BE9933618F5BEE2306FD319CB675938D9DD68075B38E7C4FCED6C2",
+    "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/texts.zip",
+    "kind": "huggingface"
+  },
+  "files": [
+    {
+      "path": "texts/oa__Aboliendo_las_fronteras_entre_la_historia_natural_y_la_magia_natural..txt",
+      "size_bytes": 1523,
+      "sha256": "BE93BC46461A56BF04BE7074EC4D90F40487C28B06558CB67B91BC1E8078184D"
+    },
+    {
+      "path": "texts/oa__Algunas_consideraciones_sobre_la_relaci_n_entre_epistemolog_a_y_psicol.txt",
+      "size_bytes": 1598,
+      "sha256": "42362E2BD90732F69F87C2D8491B61523AC0259D9A4EDCFD070BAC4B3E957314"
+    },
+    {
+      "path": "texts/oa__Ambiguity_and_Disambiguation_in_Information_Retrieval_Systems_Systemat.txt",
+      "size_bytes": 3824,
+      "sha256": "FCB0335949D7A90BFEF1A535785F84D3368F30CD58FFC0B5674FB754EBEFDC26"
+    },
+    {
+      "path": "texts/oa__An_Introduction_to_Model_Selection_Tools_and_Algorithms.txt",
+      "size_bytes": 1086,
+      "sha256": "4669420C527CE7B0698A18C656EFB4A430A6A8C124F079FCECB1E28EE2727F1A"
+    },
+    {
+      "path": "texts/oa__A_aplica_o_da_no_o_de_paradigma_desenvolvida_por_Thomans_Kuhn_na_const.txt",
+      "size_bytes": 1704,
+      "sha256": "4A8077FD35D58A8CB4B692F5AAB51B8D1EA773BA5548F88A3AEFC8B87F14EE1E"
+    },
+    {
+      "path": "texts/oa__Does_scientism_undermine_other_forms_of_knowledge.txt",
+      "size_bytes": 1878,
+      "sha256": "1C4F73D6F42AC2D26B4EEC23D69CD6A694A7080ED842B933AE5D2913EAFCDB6E"
+    },
+    {
+      "path": "texts/oa__Epistemologi_Thomas_S._Kuhn_Kajian_Teori_Pergeseran_Paradigma_dan_Revo.txt",
+      "size_bytes": 1665,
+      "sha256": "FE87A51C10DCA5AC1C3A1CEA20CDBDEB85B3DD75CCD232878FF3F95F52646EEB"
+    },
+    {
+      "path": "texts/oa__Falsificationism_and_the_Pragmatic_Problem_of_Induction.txt",
+      "size_bytes": 791,
+      "sha256": "6A41D6BB3F1D40DD3C259C62D88C5DAA5ED9025F164BBA7AE42361448ACCDC58"
+    },
+    {
+      "path": "texts/oa__Karl_Popper_and_the_production_of_scientific_knowledge_through_the_non.txt",
+      "size_bytes": 1677,
+      "sha256": "293347B14C7F00A404761213908730185BA5F40926937FCECAAA6B54C8F76C0A"
+    },
+    {
+      "path": "texts/oa__Naturalizing_Physics._Or_embedding_physics_in_the_historicity_and_mate.txt",
+      "size_bytes": 2187,
+      "sha256": "64A3C3E0B9E88ABEF44BEA84E7FCEAB656E434166FCE653B900DB48ECCB7CE1E"
+    },
+    {
+      "path": "texts/oa__On_Generalization_in_Qualitatively_Oriented_Research.txt",
+      "size_bytes": 1473,
+      "sha256": "08C848B24C96817E2424322996B43CFD481DC1C1C78A40D6701AB368EC8C6153"
+    },
+    {
+      "path": "texts/oa__Popper_et_Kuhn_sur_les_choix_inter-th_oriques.txt",
+      "size_bytes": 1790,
+      "sha256": "1D0D39CA59DD512F10473641D1EF8C79B1BC6B7885443105D146240EE5412CB7"
+    },
+    {
+      "path": "texts/oa__Predikce_Kvaszovy_form_ln_epistemologie_ve_sv_tle_historick_metody_Mic.txt",
+      "size_bytes": 3054,
+      "sha256": "5730AD45C8D3B5FEC383D22AD0233B78FBF00D848A51736F83801558E1176455"
+    },
+    {
+      "path": "texts/oa__The_Artistic_Vanguards_and_the_Scientific_Revolution_A_look_at_the_Art.txt",
+      "size_bytes": 2427,
+      "sha256": "09223A6FF1ADDD0949AABDB83FCDF19656B4781F8936609E31AB739EB3BB5327"
+    },
+    {
+      "path": "texts/oa__The_Poverty_of_Anti-historicism_at_Encountering_with_History_One_Criti.txt",
+      "size_bytes": 1418,
+      "sha256": "597EBB5793997552085319F298D6F9CE38F0DD2F0C0213BFFCDEE1F5CA6FAEC4"
+    },
+    {
+      "path": "texts/philosophy__Bacon_Novum_Organum.txt",
+      "size_bytes": 910643,
+      "sha256": "6273427097DC94E2954B891E09330C1009B63E53D6E23BFB0F6A96F4B1172534"
+    },
+    {
+      "path": "texts/philosophy__Berkeley_Principles_of_Human_Knowledge.txt",
+      "size_bytes": 1171232,
+      "sha256": "B792C0D1D13C9B7C1E2AD11DAE1016470EF415ABC51541E355CDBFB07710617B"
+    },
+    {
+      "path": "texts/philosophy__Comte_Positive_Philosophy.txt",
+      "size_bytes": 1077821,
+      "sha256": "2A4EA5E32091EEABDABD0CD0AB588D394CC6D1E5413D0BE2D0280F2EDD15746C"
+    },
+    {
+      "path": "texts/philosophy__Descartes_Discourse_on_Method.txt",
+      "size_bytes": 1118075,
+      "sha256": "80A858D66FB30C34DE5DF6CB37FCF946BA9DB92DDC4AC2E87DA91C032F3D1DBC"
+    },
+    {
+      "path": "texts/philosophy__Hobbes_Leviathan.txt",
+      "size_bytes": 1252921,
+      "sha256": "7ABA9E1A7ED07ABC9305EDF82116D815B235B284C270BC40284BDFBF1B58C518"
+    },
+    {
+      "path": "texts/philosophy__Hume_Enquiry_Concerning_Human_Understanding.txt",
+      "size_bytes": 866486,
+      "sha256": "25938C60C9DB54B63F27102337EAC58EF5C8FF0237EE32DAFF0D67FC5F2558D7"
+    },
+    {
+      "path": "texts/philosophy__Kant_Critique_of_Practical_Reason.txt",
+      "size_bytes": 935276,
+      "sha256": "F68045EEB02EB2E879A5CEEDD1DA94F4B1C7250262F10B6272E83E2C167E9D62"
+    },
+    {
+      "path": "texts/philosophy__Kant_Critique_of_Pure_Reason_Mueller.txt",
+      "size_bytes": 1402128,
+      "sha256": "7E595A1DBDC37478B12569A013127EFF68D67729E86B9FC1F17651C0B30D6D82"
+    },
+    {
+      "path": "texts/philosophy__Kant_Prolegomena.txt",
+      "size_bytes": 993666,
+      "sha256": "4A1CD7FDB01223134FBEAA549A6D2DF320ADB40A3361257F6DE653739ABD9DA7"
+    },
+    {
+      "path": "texts/philosophy__Laplace_Philosophical_Essay_Probability.txt",
+      "size_bytes": 412779,
+      "sha256": "83550DF2793B387A5FDC9417C0CAED6402FB1E20C9510B59EF3B8A4F4A7A5677"
+    },
+    {
+      "path": "texts/philosophy__Leibniz_Monadology.txt",
+      "size_bytes": 1059725,
+      "sha256": "3043FD3A0C5DF56BF486D7E79C24F453F94458616697D756CCA94A9FB625A179"
+    },
+    {
+      "path": "texts/philosophy__Leibniz_New_Essays.txt",
+      "size_bytes": 2791695,
+      "sha256": "842C33D00B59F2FC9CA8AFC24415AD7D26F19A809A2608DF93ED697C3CEA87A8"
+    },
+    {
+      "path": "texts/philosophy__Locke_Conduct_of_the_Understanding.txt",
+      "size_bytes": 277057,
+      "sha256": "110D52BAD43D82F6B05BDE294F99D942B704E8E052087C960950D88D2E608BAA"
+    },
+    {
+      "path": "texts/philosophy__Locke_Essay_Concerning_Human_Understanding.txt",
+      "size_bytes": 2556102,
+      "sha256": "10FC4A64943799EF7FA059EB61A47ED43132CD5F9270AC50B6721D0603FA1A77"
+    },
+    {
+      "path": "texts/philosophy__Mach_Analysis_of_Sensations.txt",
+      "size_bytes": 785195,
+      "sha256": "DA5407ECF7C9A8DC8EF53659A7A60A9BEB870174EF35AB05C524888C3380A27C"
+    },
+    {
+      "path": "texts/philosophy__Mach_Science_of_Mechanics.txt",
+      "size_bytes": 1094616,
+      "sha256": "95AD1E23F6C1837EA35D36ACAF435EE7281499A7688BFE4714C4189BE5EB3915"
+    },
+    {
+      "path": "texts/philosophy__Mill_System_of_Logic.txt",
+      "size_bytes": 2773103,
+      "sha256": "D634D63F49F47B0ADFF381E0478AA6E1AB1B64FA8E09060A2706672B285C3F50"
+    },
+    {
+      "path": "texts/philosophy__Peirce_Chance_Love_and_Logic.txt",
+      "size_bytes": 696087,
+      "sha256": "52EB4BB60C50547EBE8051BD4BF42BE6DAF14C1A4CC5A3385DF94BB7954A0B79"
+    },
+    {
+      "path": "texts/philosophy__Plato_Republic.txt",
+      "size_bytes": 1009457,
+      "sha256": "B1FDE84486E43C1A8CEB9F611A5448387059E8959B6D0D862D613EF19E60CB28"
+    },
+    {
+      "path": "texts/philosophy__Plato_Timaeus.txt",
+      "size_bytes": 1990483,
+      "sha256": "5BD58557C3D5E2167A26467FB19E94F6F1761AB3A4AA68F20FE60927BE65D9D8"
+    },
+    {
+      "path": "texts/philosophy__Poincare_Science_and_Hypothesis.txt",
+      "size_bytes": 557191,
+      "sha256": "BD822014AB9314E896AB293FCB508D7DD8290199F6F18419C3AA4B88BA4D653D"
+    },
+    {
+      "path": "texts/philosophy__Russell_Analysis_of_Mind.txt",
+      "size_bytes": 563275,
+      "sha256": "BA9CE6FE937262F453F75DF6E2A363E5ACB722CD6B99D7032E1DB5BBBC00650F"
+    },
+    {
+      "path": "texts/philosophy__Russell_Problems_of_Philosophy.txt",
+      "size_bytes": 271127,
+      "sha256": "6595A5BC3E150E2D627187ECCE96E17E73180CD2FC2C65B5B932E095DEE6BEE3"
+    },
+    {
+      "path": "texts/philosophy__Schlick_Space_and_Time_in_Contemporary_Physics.txt",
+      "size_bytes": 204219,
+      "sha256": "A0AA32B9AB2F2F3DA814172FF53F9B97D71D56400C366B2F60D1AB57D7F2461F"
+    },
+    {
+      "path": "texts/philosophy__Spencer_First_Principles.txt",
+      "size_bytes": 1277726,
+      "sha256": "D81FF555C6D6BAE2AD7FF363ECC89033D63D89D294DB82BA7E8DF3BDE62BF8D3"
+    },
+    {
+      "path": "texts/philosophy__Spinoza_Ethics.txt",
+      "size_bytes": 747530,
+      "sha256": "945854DD2E5EF70B1B2676AD1329C328D39B13FFD5E351002BBEBF92CC833927"
+    },
+    {
+      "path": "texts/philosophy__Whitehead_Science_and_the_Modern_World.txt",
+      "size_bytes": 528429,
+      "sha256": "F2D9980BC5E0AD1FCEB07552A970A6C4CB3B4687EF648B477D039553FEFE5710"
+    },
+    {
+      "path": "texts/philosophy__Wittgenstein_Tractatus.txt",
+      "size_bytes": 314899,
+      "sha256": "A54C36EA07102D116242BA157CE11B5FFA05BBFEA6C4D3085F041C9D41FA8C1D"
+    },
+    {
+      "path": "texts/philosophy__Wittgenstein_Tractatus_1954.txt",
+      "size_bytes": 766632,
+      "sha256": "419229890076E0DDFD8D29B41F24967BECB4D4CE973FA12B773DF409C6652E54"
+    },
+    {
+      "path": "texts/wikipedia__Auguste_Comte.txt",
+      "size_bytes": 48485,
+      "sha256": "2D8B296EB3245A74BB8AA37D5EB274448209EEA92BB99A6E13D82616A79B8EAA"
+    },
+    {
+      "path": "texts/wikipedia__Bertrand_Russell.txt",
+      "size_bytes": 99839,
+      "sha256": "1270759425483956C9BFDFB1D35DE8A8702296F9E88309C4D9EDABC044529E73"
+    },
+    {
+      "path": "texts/wikipedia__Carl_Hempel.txt",
+      "size_bytes": 6108,
+      "sha256": "BAAACA42505E0B681D0205B45E3BE7D712DF381C1A8E7D6D34C1E7AE3B83B737"
+    },
+    {
+      "path": "texts/wikipedia__Causality.txt",
+      "size_bytes": 63155,
+      "sha256": "F028BCE2F63A3FD0067958B6D0769246759F6501993350792D832CB3AA7B3363"
+    },
+    {
+      "path": "texts/wikipedia__Coherence_theory_of_truth.txt",
+      "size_bytes": 4398,
+      "sha256": "316DFE1D00F4D2AA49CBC60409F375521047BA6B871257F45E28F5A1B420FAC1"
+    },
+    {
+      "path": "texts/wikipedia__Consciousness.txt",
+      "size_bytes": 81988,
+      "sha256": "260804589E1E66CD41B9F4865156E180D102CDAF90FD68FBD65B58CB0B73A378"
+    },
+    {
+      "path": "texts/wikipedia__Correspondence_theory_of_truth.txt",
+      "size_bytes": 7301,
+      "sha256": "3015CA367D153F263C495344FC8AFD9F19EB3BBCE6F007BAFD853EF318249DBC"
+    },
+    {
+      "path": "texts/wikipedia__Critical_rationalism.txt",
+      "size_bytes": 30355,
+      "sha256": "94E54344EED02150290C2FF3F5957B3B79FD531C9DAC44621A5F88DD0A14AED3"
+    },
+    {
+      "path": "texts/wikipedia__David_Hume.txt",
+      "size_bytes": 87632,
+      "sha256": "BA513E1C300F491C83B3FEACD576A1943C4264066C0814409801D906AB8CABD8"
+    },
+    {
+      "path": "texts/wikipedia__Demarcation_problem.txt",
+      "size_bytes": 18199,
+      "sha256": "D4CD34E272A83C9268E824EC3A9C6744C0CF2FBE8839F9691333B8FF5D373E51"
+    },
+    {
+      "path": "texts/wikipedia__Determinism.txt",
+      "size_bytes": 41126,
+      "sha256": "134DE07BB3271294908ECB903C210094751B578DB16F069F27EF703653864EE4"
+    },
+    {
+      "path": "texts/wikipedia__Emergence.txt",
+      "size_bytes": 25119,
+      "sha256": "0C0D06C2B071C9B7C935B88F9937B2AD7CCF515C32D86DC1BFA39AA93ED9A707"
+    },
+    {
+      "path": "texts/wikipedia__Empiricism.txt",
+      "size_bytes": 33530,
+      "sha256": "A2F1C08317DD0C57F42BA25C116AE01C0A224812D7C9C0A8971C00D16D962F21"
+    },
+    {
+      "path": "texts/wikipedia__Epistemology.txt",
+      "size_bytes": 55167,
+      "sha256": "42CAAA821B185D886896144F600865CA673BE45405FB8E5378D2DE6DA856250A"
+    },
+    {
+      "path": "texts/wikipedia__Ernst_Mach.txt",
+      "size_bytes": 17807,
+      "sha256": "27F302E3EB60DD927134FB2EE5F31BB9F57BC167F383616338273A12DBA3F482"
+    },
+    {
+      "path": "texts/wikipedia__Falsifiability.txt",
+      "size_bytes": 42625,
+      "sha256": "1C346C306AD8273099E8C536136178FA9A04CC5FF58A8F86BE0696C3FBB177F7"
+    },
+    {
+      "path": "texts/wikipedia__Hard_problem_of_consciousness.txt",
+      "size_bytes": 61139,
+      "sha256": "3CAA0C9028E90BF2EFF37134EFEE158383FA2733CAC02E563AA2F9AB3A77C61F"
+    },
+    {
+      "path": "texts/wikipedia__Henri_Poincaré.txt",
+      "size_bytes": 58580,
+      "sha256": "35D3228F6A1AFD02C5F62D9F211F9AA134FD8C139763CE262313D92889D36AC8"
+    },
+    {
+      "path": "texts/wikipedia__Immanuel_Kant.txt",
+      "size_bytes": 92751,
+      "sha256": "2CFF6943383406CF027B1E5D502F2C5B8EA4D1DF082D53A31A3BC883D8A9FFB1"
+    },
+    {
+      "path": "texts/wikipedia__Imre_Lakatos.txt",
+      "size_bytes": 28238,
+      "sha256": "94A96AEBEF601A58A7E232EC63324037A848A6D8F6A8894AAC30D284C7A7E647"
+    },
+    {
+      "path": "texts/wikipedia__Instrumentalism.txt",
+      "size_bytes": 12128,
+      "sha256": "5C026DD79D1C4BFD62693A552D334B012419E90E3B521BDD22F0D555B445A9AC"
+    },
+    {
+      "path": "texts/wikipedia__Karl_Popper.txt",
+      "size_bytes": 71861,
+      "sha256": "4495CA06F968CC4D9F398069A5F286760CBD16852FB92F33218C827D85D4351B"
+    },
+    {
+      "path": "texts/wikipedia__Logical_positivism.txt",
+      "size_bytes": 23681,
+      "sha256": "8CDB3FA201B714BEFE91E27681AC9847501BB274121C9DB9EAF5244AD6C5A314"
+    },
+    {
+      "path": "texts/wikipedia__Ludwig_Wittgenstein.txt",
+      "size_bytes": 98409,
+      "sha256": "5C2655AA65E4A1D0D4AFE0D269D9C17097C7843D2CF766346B6E33006F979CED"
+    },
+    {
+      "path": "texts/wikipedia__Moritz_Schlick.txt",
+      "size_bytes": 15207,
+      "sha256": "81B792C81B2CD0A8C96D9FA58877E65DF5273AB5286ED890B3BF95A1A81F058D"
+    },
+    {
+      "path": "texts/wikipedia__Otto_Neurath.txt",
+      "size_bytes": 21484,
+      "sha256": "29E71F91D93736765E0F364CA3806933736DF5E4DC9D404377A158074E6B7950"
+    },
+    {
+      "path": "texts/wikipedia__Paradigm.txt",
+      "size_bytes": 22425,
+      "sha256": "496B20CC3AD01D4A47CA3E6B09047EFB32306DED3AA4DBDF5C2203AB402C8C3B"
+    },
+    {
+      "path": "texts/wikipedia__Paradigm_shift.txt",
+      "size_bytes": 20625,
+      "sha256": "2D697D5CA8CD7BEA258EE2844C8DFE951F80AFA9FB57A35537D4FF6938376063"
+    },
+    {
+      "path": "texts/wikipedia__Paul_Feyerabend.txt",
+      "size_bytes": 55482,
+      "sha256": "7536DB041CD319251B63A619FDCC529A1E8B86F3BAC2DA40DF333710BD5B3DBA"
+    },
+    {
+      "path": "texts/wikipedia__Paul_Feyerabend_full.txt",
+      "size_bytes": 58747,
+      "sha256": "97D93C3BA6114222599DB34C8E16730C404AAC587A38AFFC365ED2350644ADF5"
+    },
+    {
+      "path": "texts/wikipedia__Philosophy_of_artificial_intelligence.txt",
+      "size_bytes": 33726,
+      "sha256": "A4534AC98BA494F62FC7AC202AE0B2C03DD51E11ACB330710A90BBFEF61AACAD"
+    },
+    {
+      "path": "texts/wikipedia__Philosophy_of_mind.txt",
+      "size_bytes": 64169,
+      "sha256": "6987D17F775508308EAB581819A0603FACADEED50CA29FC93CB176FD11722F1C"
+    },
+    {
+      "path": "texts/wikipedia__Philosophy_of_physics.txt",
+      "size_bytes": 21827,
+      "sha256": "5D2E7CCE97FACC519FA8A6857301850F0FD82F0A53FDDEC7FA6D4F6C51042FAC"
+    },
+    {
+      "path": "texts/wikipedia__Philosophy_of_science.txt",
+      "size_bytes": 47687,
+      "sha256": "0D2C75A5A5CB1C69A81DAA166B596AEAE249DE13B0CCA2A8D2D6BE9EFE17FFB5"
+    },
+    {
+      "path": "texts/wikipedia__Philosophy_of_space_and_time.txt",
+      "size_bytes": 29792,
+      "sha256": "FC373293E2B9C9417973FB71037F421E410171BC99AD726938088DBD06B86E4D"
+    },
+    {
+      "path": "texts/wikipedia__Physicalism.txt",
+      "size_bytes": 20940,
+      "sha256": "55201A61D2F5736CF9A1923244D1EA0A59C3ED9A7018C666202075DEEA9A5AA3"
+    },
+    {
+      "path": "texts/wikipedia__Pierre_Duhem.txt",
+      "size_bytes": 21212,
+      "sha256": "BC64B17BA2213B34E2F6E3817EBF04F1500141C1C4D1D4A92D14FAD49050144A"
+    },
+    {
+      "path": "texts/wikipedia__Positivism.txt",
+      "size_bytes": 44663,
+      "sha256": "109954A51D71C2437C20EF0C1826DFA2F15227F0D9B18E4E519C38F81D294296"
+    },
+    {
+      "path": "texts/wikipedia__Pragmatic_theory_of_truth.txt",
+      "size_bytes": 30120,
+      "sha256": "1685E98199F8AFECD8E28DB4473AF4C11522824B1BEF92F3E40A67C51FDA95DA"
+    },
+    {
+      "path": "texts/wikipedia__Problem_of_induction.txt",
+      "size_bytes": 23512,
+      "sha256": "069F7C540035F169C8E96BB3B1742C80778C73FDCACF11A4A409E532B75B1B33"
+    },
+    {
+      "path": "texts/wikipedia__Quantum_indeterminacy.txt",
+      "size_bytes": 13881,
+      "sha256": "55A0B09CA757B73DCFBCA6267FB1331E8AEE2E08F8C07E4261F36DEA92579AC1"
+    },
+    {
+      "path": "texts/wikipedia__Rationalism.txt",
+      "size_bytes": 33896,
+      "sha256": "98BE916CFBE42871A2A487DFF7D40A6709DF4D7F3A1E2F51527FA0FB58092921"
+    },
+    {
+      "path": "texts/wikipedia__Reductionism.txt",
+      "size_bytes": 16166,
+      "sha256": "23C8EF150F1D6ED05D8536F910B852BB55FFD8DB55B343F4B4A11F541E310283"
+    },
+    {
+      "path": "texts/wikipedia__Rudolf_Carnap.txt",
+      "size_bytes": 34123,
+      "sha256": "C735BA19295B1DA579A6DE847F365533FD77DC3B3ED11840046E4B65A11A4001"
+    },
+    {
+      "path": "texts/wikipedia__Scientific_explanation.txt",
+      "size_bytes": 16665,
+      "sha256": "57844354B982E5B389C5FF9B4446AE9FF8A7C6BE73F11DA2990BDD39076ED9BD"
+    },
+    {
+      "path": "texts/wikipedia__Scientific_method.txt",
+      "size_bytes": 85959,
+      "sha256": "43341B5EC7E0AFBF5D0AE3955153D9475131DC5DEC86C43534F47E670E712466"
+    },
+    {
+      "path": "texts/wikipedia__Scientific_realism.txt",
+      "size_bytes": 13859,
+      "sha256": "FC4BEB8E73419167F105A793B92F2A0F01CBB30048DB01F804F6C225881C07F2"
+    },
+    {
+      "path": "texts/wikipedia__Spacetime.txt",
+      "size_bytes": 41089,
+      "sha256": "FA79221DB04ECBC05D772936716DD5A76C8E4ED836E38CEDA23239EF24296112"
+    },
+    {
+      "path": "texts/wikipedia__Theory_of_truth.txt",
+      "size_bytes": 46173,
+      "sha256": "AFB483B46D51F7ECA5F4E1D0E776B41F930D16C451931819BFB9B1365E77E915"
+    },
+    {
+      "path": "texts/wikipedia__The_Structure_of_Scientific_Revolutions.txt",
+      "size_bytes": 51041,
+      "sha256": "4F51DF21D7ED45F33D5B910B2E81C5DF88A28C7AE0008F2C1D5EF0BB45CCCD8D"
+    },
+    {
+      "path": "texts/wikipedia__Thomas_Kuhn.txt",
+      "size_bytes": 17015,
+      "sha256": "04D8FD5F61D15344AE2EC241AC33B4BE6D06D836D87FFE5E741E7CF4CEA91A5F"
+    },
+    {
+      "path": "texts/wikipedia__Truth.txt",
+      "size_bytes": 50497,
+      "sha256": "28503B3C65CB727EFB72B8A1F846BDD4E18D78AFE9FF211935A4BFC58931A8E9"
+    },
+    {
+      "path": "texts/wikipedia__Vienna_Circle.txt",
+      "size_bytes": 36350,
+      "sha256": "005C8375C6CE361DCD9EBE4B79A79E7D9EF8695241CE35F516BD02C4FEBC82CC"
+    },
+    {
+      "path": "texts/wikipedia__Willard_Van_Orman_Quine.txt",
+      "size_bytes": 35301,
+      "sha256": "43EB64EF0075E0DD39819398653A2D0159FB32086536FB851C3D61AA5B2540F2"
+    }
+  ],
+  "texts_total": 98,
+  "env": {
+    "root": "COURSE_CORPUS_ROOT",
+    "texts_url_override": "COURSE_CORPUS_URL"
+  }
+}

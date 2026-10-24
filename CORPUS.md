@@ -25,7 +25,7 @@ CC BY-SA 4.0, научные статьи CC BY/BY-SA/BY-NC/BY-ND).
 
 ## Установка индекса (Google Диск)
 
-Индекс корпуса распространяется через Google Диск (`docs/GOOGLE-DRIVE.md`):
+Индекс и полный архив текстов корпуса распространяются через Hugging Face dataset `brics-edtech/histphil-corpus`; точные URL и SHA-256 зафиксированы в `index-manifest.json` и `corpus-manifest.json`. Старые ссылки на Google Drive сохранены только как историческая документация.
 
 ```bash
 make index-fetch URL="<share-ссылка>"   # скачивание + SHA-256 + атомарная установка
