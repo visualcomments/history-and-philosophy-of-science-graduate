@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "topic": "07_empirizm",
+  "title": "Дополнение корпуса: эмпиризм XVII века",
+  "selection_principle": "Только тексты с подтверждённым общественным достоянием или явной лицензией Creative Commons; открытый доступ без лицензии не считается достаточным.",
+  "sources": [
+    {
+      "corpus_path": "philosophy__Hobbes_De_Corpore.txt",
+      "kind": "public_domain",
+      "author": "Thomas Hobbes",
+      "title": "De Corpore",
+      "publication_year": 1655,
+      "edition_source": "Internet Archive, свободное издание; перед загрузкой проверяется access-restricted-item=false",
+      "source_url": "https://archive.org/search?query=title%3A%22De%20Corpore%22%20AND%20creator%3A%22Thomas%20Hobbes%22",
+      "pedagogical_role": "Связывает эмпирический исходный материал с дефинициями, вычислением и дедуктивным методом Гоббса.",
+      "license": "public domain"
+    },
+    {
+      "corpus_path": "philosophy__Reid_Inquiry_into_the_Human_Mind.txt",
+      "kind": "public_domain",
+      "author": "Thomas Reid",
+      "title": "An Inquiry into the Human Mind on the Principles of Common Sense",
+      "publication_year": 1764,
+      "edition_source": "Internet Archive, свободное издание; перед загрузкой проверяется access-restricted-item=false",
+      "source_url": "https://archive.org/search?query=title%3A%22Inquiry%20into%20the%20Human%20Mind%22%20AND%20creator%3A%22Thomas%20Reid%22",
+      "pedagogical_role": "Контрольный и критический контекст для сенсуализма: восприятие, свидетельство чувств и пределы редукции знания к идеям.",
+      "license": "public domain"
+    },
+    {
+      "corpus_path": "oa__W3214186553_Locke_Construction_of_Knowledge.txt",
+      "kind": "open_access_article",
+      "openalex_id": "https://openalex.org/W3214186553",
+      "author": "Juhansar Juhansar",
+      "title": "John Locke: The Construction of Knowledge in the Perspective of Philosophy",
+      "publication_year": 2021,
+      "doi": "https://doi.org/10.23887/jfi.v4i3.39214",
+      "fulltext_url": "https://ejournal.undiksha.ac.id/index.php/JFI/article/download/39214/19933",
+      "license": "CC BY-SA",
+      "pedagogical_role": "Современный открытый обзор Локка: происхождение идей, опыт и построение знания.",
+      "download_note": "Сохранять только при подтверждении лицензии в записи журнала/Crossref; фиксировать дату и SHA-256.",
+      "attribution": "OpenAlex record W3214186553; DOI and publisher full text above."
+    },
+    {
+      "corpus_path": "oa__W7164879597_Empiricism_and_Philosophy_of_Science.txt",
+      "kind": "open_access_article",
+      "openalex_id": "https://openalex.org/W7164879597",
+      "author": "Sri Jomila Oktari, Muhammad Fadhil Hadziq, Dias Ayu Miftakhul Jannah, and Bulqis Bulqis",
+      "title": "Empiricism and the Philosophy of Science: Western Foundations and Islamic Epistemological Integration",
+      "publication_year": 2026,
+      "doi": "https://doi.org/10.65899/jgc6sq35",
+      "fulltext_url": "https://journal.stai-barru.ac.id/index.php/al-kalam/article/download/156/47",
+      "license": "CC BY-SA",
+      "pedagogical_role": "Свободный сравнительный обзор оснований эмпиризма и его связи с философией науки; использовать как вторичный материал, не как замену Бэкону, Гоббсу и Локку.",
+      "download_note": "Сохранять только при подтверждении лицензии в записи журнала/Crossref; фиксировать дату и SHA-256.",
+      "attribution": "OpenAlex record W7164879597; DOI and publisher full text above."
+    }
+  ],
+  "verification": {
+    "required_before_install": [
+      "Проверить, что IA-издание не ограничено подпиской.",
+      "Проверить лицензию каждой статьи на уровне издателя и Crossref.",
+      "Скачать текст, сохранить UTF-8 OCR и SHA-256.",
+      "Добавить файл в индекс только после пересборки chunks/embeddings и запуска make verify."
+    ],
+    "direct_quote_policy": "До установки и успешной проверки индекса новые статьи используются только как библиографические источники; прямые цитаты из них в лекции не добавлять."
+  }
+}
