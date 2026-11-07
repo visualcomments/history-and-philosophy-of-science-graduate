@@ -158,3 +158,106 @@ Archive, `_djvu.txt`) — для чтения и подготовки, **не** 
 без отдельной верификации. Каждый файл зафиксирован с лицензией и
 источником в `reading/_provenance.json`. Манифест отбора —
 `_literature-tools/sources_history-and-philosophy-of-science-graduate.json`.
+
+## Расширение корпуса 2026-11-07 (индекс 2026-11-07)
+
+Корпус расширен со **126 до 325 файлов**; индекс пересобран на GPU
+(sentence-transformers + torch/CUDA). Цель: гарантированное покрытие
+каждого из 26 занятий (≥ 10 источников, включая все доступные PD-тексты
+упомянутых философов) + исследовательские статьи по свободным лицензиям.
+
+### Добавленные первоисточники общественного достояния (~70)
+
+Источники: Project Gutenberg (через зеркало pglaf), Standard Ebooks
+(CC0/PD-издания), en.wikisource.org. Прежние IA-OCR версии сохранены;
+дубликаты по содержимому удалены.
+
+| Философ | Добавлено |
+|---|---|
+| **Беркли** | Principles (Gutenberg), New Theory of Vision, Three Dialogues (Gutenberg), Principles (SE-версия недоступна — IA/Gutenberg) |
+| **Юм** | Treatise of Human Nature (Gutenberg 62856 + SE), Enquiry (Gutenberg + SE), Principles of Morals, Dialogues Concerning Natural Religion, Political Discourses |
+| Декарт | Six Metaphysical Meditations (70091), Principles of Philosophy (4391), Rules for the Direction of the Mind, Discourse (Gutenberg 59) |
+| Спиноза | Ethics (3800, англ.; 15497, лат.), Philosophy of Spinoza (31205) |
+| Лейбниц | Theodicy (17147), Monadologie (39441, нем.), New Essays (критич. изд. Дьюи 40957), Wundt «Leibniz» |
+| Локк | Second Treatise (7370), Two Treatises (SE), Thoughts Concerning Education (SE) |
+| Бэкон | Advancement of Learning (8492), Novum Organum (лат. 45988 + Wikisource), New Atlantis (2434) |
+| Гоббс | Leviathan (Gutenberg 3207 + SE) |
+| Кант | Critique of Pure Reason (Kemp Smith, 4280), Prolegomena (52821), Commentary Kemp Smith (43572) |
+| Милль | System of Logic (35421), On Liberty (34901 + SE) |
+| Спенсер | First Principles (55046), Data of Ethics (46129) |
+| Мах | Popular Scientific Lectures (39508) |
+| Пуанкаре | Foundations of Science (39713) |
+| Пирс | Chance, Love and Logic (65274), Pragmatic Theory of Truth (37552) |
+| Уайтхед | Science and the Modern World (68611), Symbolism (78977) |
+| Джеймс | Pragmatism (5116 + SE), Meaning of Truth (5117), Varieties (621 + SE), Pluralistic Universe (11984 + SE), Will to Believe (Wikisource) |
+| Уэвелл | Novum Organon Renovatum (69764), History of Scientific Ideas (69093) |
+| Мур | Principia Ethica (53430) |
+| Аристотель | Categories (2412), Ethics (8438), Nicomachean Ethics (28626/29011), History of Animals (59058), De Anima (27816), Poetics (1974), Parva Naturalia (27895/96), нем. издания (Topik, Lehre vom Schluss, Poetik), Organon (Wikisource) |
+| Платон | Republic (Jowett 1497), Timaeus (1572, 36049), Symposium (35789), Theaetetus (72108), Meno (34881) |
+| Лукреций | On the Nature of Things (785) |
+| Секст Эмпирик | Sextus Empiricus and Greek Scepticism (17556) |
+| Галилей | Sidereal Messenger (46036) + истории (Gebler, Wegg-Prosser) |
+| Кеплер | Bryant «Kepler» (12406) |
+| Ньютон | Opticks (33504) |
+| Гельмгольц/др. | Stewart «Conservation of Energy» (69053), Heath «Archimedes» (35550), «Copernicus of Antiquity» (58498), Бэлл/Каджори (история математики — недоступны как txt) |
+| Леонардо | Notebooks (5000/4998/4999) |
+| Руссо | Social Contract (46333) |
+
+Лицензия всех добавленных первоисточников: **PD** (авторы умерли > 70
+лет назад; переводы дореволюционные/довыходные в PD). Издания Standard
+Ebooks сами находятся в **CC0/PD** (см. colophon каждого файла).
+
+### Добавленные статьи Wikipedia (CC BY-SA 4.0) — ~70
+
+en: George Berkeley, Subjective idealism, A Treatise of Human Nature, An
+Enquiry Concerning Human Understanding, Hume's fork, Bundle theory,
+Inductive reasoning, Is–ought problem, Phenomenalism, Sense data,
+Aristotle, Plato, Pythagoreanism, Atomism, Lucretius, Democritus,
+Renaissance, Scientific revolution, Copernican Revolution, Galileo
+Galilei, Johannes Kepler, Isaac Newton, Nicolaus Copernicus, Francis
+Bacon, Thomas Hobbes, John Locke, Thomas Reid, René Descartes, Baruch
+Spinoza, Gottfried Wilhelm Leibniz, Leibniz–Clarke correspondence,
+Critique of Pure Reason, Synthetic a priori, Transcendental idealism,
+Phenomenon, Noumenon, Antinomy, Law of three stages, John Stuart Mill,
+Herbert Spencer, Classical physics, Conventionalism, Duhem–Quine thesis,
+Old quantum theory, Introduction to quantum mechanics, Solipsism,
+Logical atomism, Verificationism, Analytic–synthetic distinction, Three
+worlds, Epistemological anarchism, Against Method, Incommensurability,
+Observation, Experiment, Measurement, Fact, Hypothesis, Scientific
+theory, Deductive/Abductive reasoning, Theory-ladenness, Consensus
+theory of truth, Deflationary theory, Pragmatism, William James, Charles
+Sanders Peirce, Causal determinism, Free will, Interpretations of
+quantum mechanics, Copenhagen interpretation, EPR paradox, Bell's
+theorem, Relationalism, Absolute space and time, Special/General
+relativity, Chinese room, Functionalism, Philosophical zombie, Turing
+test, Qualia, Epiphenomenalism…
+
+ru (для цитирования по-русски): Джордж Беркли, Дэвид Юм, Проблема
+индукции, Феноменализм, Иммануил Кант, История и философия науки (→
+Философия науки), Огюст Конт, Позитивизм, Эрнст Мах, Анри Пуанкаре,
+Пьер Дюгем, Томас Кун, Карл Поппер, Венский кружок, Людвиг
+Витгенштейн, Бертран Рассел, Имре Лакатос, Пол Фейерабенд.
+
+### Добавленные научные статьи под CC-лицензиями (`oa__*`) — ~7
+
+DOAJ, лицензия проверена по записи журнала (API v2
+`/api/v2/search/journals/`), допускаются только CC BY / CC BY-SA / CC0
+(варианты с NC/ND исключены из новой выборки). Тематика: критический
+рационализм и пост-правда, прагматизм, философия религии (Юм, Беркли как
+контекст), математика и город, аватарная метафизика (Мулла Садра),
+позитивизм в литературе. Нерелевантные (строительство, экономика,
+спутниковый мониторинг, чат-боты) отфильтрованы автоматически
+(`build-corpus/filter_oa.py` — эволюция `scripts/filter_oa_relevance.py`).
+
+### Автоматическая проверка покрытия занятий
+
+`build-corpus/build_sources_map.py` собирает карту «занятие → источники»
+по ключевым словам авторов/тем и гарантирует **≥ 10 источников на каждое
+из 26 занятий** (занятие 09 «Беркли и Юм» — 45 источников). Карта —
+`catalog/sources-map-2026-11-07.json`.
+
+### Что по-прежнему НЕ в корпусе
+
+- Кун (1962), Поппер (1959/1962), Лакатос, Фейерабенд, Райхенбах —
+  охраняются; излагаются «вне корпуса» с опорой на Wikipedia/CC-статьи.
+- КиберЛенинка — исключена ранее (2026-09-22), см. выше.

@@ -1,1 +1,47 @@
-{"schema":1,"index_version":"2026-09-26","note":"Р В РЎвЂ™Р В РЎвЂќР РЋРІР‚С™Р РЋРЎвЂњР В Р’В°Р В Р’В»Р РЋР Р‰Р В Р вЂ¦Р РЋРІР‚в„–Р В РІвЂћвЂ“ RAG-Р В РЎвЂР В Р вЂ¦Р В РўвЂР В Р’ВµР В РЎвЂќР РЋР С“ Р В РЎвЂР В Р’В· brics-edtech/histphil-corpus; Р РЋРІР‚С›Р В Р’В°Р В РІвЂћвЂ“Р В Р’В»Р РЋРІР‚в„– Р РЋР С“Р В РЎвЂќР В Р’В°Р РЋРІР‚РЋР В РЎвЂР В Р вЂ Р В Р’В°Р РЋР вЂ№Р РЋРІР‚С™Р РЋР С“Р РЋР РЏ Р В РЎвЂ”Р В РЎвЂў Р В РЎвЂўР РЋРІР‚С™Р В РўвЂР В Р’ВµР В Р’В»Р РЋР Р‰Р В Р вЂ¦Р РЋРІР‚в„–Р В РЎВ HF URL.","archive":{"filename":"brics-edtech/histphil-corpus@511436aed0eef9c58476f2fe7acb173775a6263e","url":"https://huggingface.co/datasets/brics-edtech/histphil-corpus","file_id":"1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4","view_url":"https://drive.google.com/file/d/1Dz3oBRjJIswzmq-sPDn9BuDzuEM7cRY4/view","kind":"huggingface_dataset","hf_total_bytes":243165934,"sha256_note":"Per-file SHA-256 is authoritative; HF dataset has no single archive checksum."},"files":[{"path":"annoy.index","size_bytes":43523568,"sha256":"AFE333CBD9807872B3DD1C1AC59BB6763F534814FDFA58F549389FD9F51186A4","url":"https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/annoy.index"},{"path":"chunks.jsonl","size_bytes":35048961,"sha256":"2A8AC0876766AA3EEB692E6A78556DF50EE696B0B1815DD17D9D87D6DE3D9E3B","url":"https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/chunks.jsonl"},{"path":"config.json","size_bytes":4912,"sha256":"C506EB9CD8BD71E25FFF3FE1A904F04105D36A4E999ED373C138D0DB6ABC08D9","url":"https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/config.json"},{"path":"embeddings.npy","size_bytes":38013056,"sha256":"236848F8672D28D71363D83080B69AA829B9A0D2EC8416462B4B0A7D278CE8D8","url":"https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/embeddings.npy"}],"corpus":{"n_files":98,"n_chunks":24748,"composition":{"philosophy_public_domain":29,"oa_cc_licensed_articles":15,"wikipedia_cc_by_sa":54},"model":"sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2","dim":384,"chunk_chars":512,"overlap":128,"coverage_note":"HF config.json: 98 files, 24748 chunks; per-file SHA-256 verified against downloaded files."},"index_hf_kind":"huggingface"}
+{
+  "schema": 1,
+  "index_version": "2026-11-07",
+  "note": "RAG-индекс корпуса: чанки + эмбеддинги + Annoy (если доступен). Распространяется как отдельные файлы HF dataset; per-file SHA-256 авторитетен.",
+  "archive": {
+    "filename": "brics-edtech/histphil-corpus@2026-11-07",
+    "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus",
+    "kind": "huggingface_dataset"
+  },
+  "files": [
+    {
+      "path": "embeddings.npy",
+      "size_bytes": 316528256,
+      "sha256": "06A70722A368ABFABF15E527F87AB7841982636A0E9EAD14119975BCDC9A52CB",
+      "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/embeddings.npy"
+    },
+    {
+      "path": "chunks.jsonl",
+      "size_bytes": 114712149,
+      "sha256": "6B15FFAF8CF01D26B8A2B6209B4390D65720597AD7FAEAC4708228FE4BB01243",
+      "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/chunks.jsonl"
+    },
+    {
+      "path": "config.json",
+      "size_bytes": 15385,
+      "sha256": "ECAFF51F84B4F62F7BB042A2E08D7AAED27DCB93311FB3BA662001263686F06E",
+      "url": "https://huggingface.co/datasets/brics-edtech/histphil-corpus/resolve/main/config.json"
+    }
+  ],
+  "corpus": {
+    "n_files": 325,
+    "n_chunks": 206073,
+    "composition": {
+      "philosophy_public_domain": 114,
+      "wikipedia_cc_by_sa": 175,
+      "oa_cc_licensed_articles": 34,
+      "history_public_domain": 2
+    },
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "backend": "exact-cosine",
+    "annoy_present": false
+  },
+  "env": {
+    "root": "COURSE_CORPUS_ROOT",
+    "index_url_override": "COURSE_INDEX_URL"
+  }
+}
